@@ -1,0 +1,187 @@
+-- 8 FEB 17 --
+
+This directory contains the raw data for determining lysine acylation sites. The following tables were downloaded:
+
+## Weinert_acetylation & Weinert_succinylation:
+
+Mouse liver acetylayion and succinylation data on mouse liver from :
+Lysine Succinylation Is a Frequently Occurring Modification in Prokaryotes and Eukaryotes and Extensively Overlaps with Acetylation
+Brian T. Weinert, Christian Schölz, Sebastian A. Wagner, Vytautas Iesmantavicius, Dan Su, Jeremy A. Daniel, Chunaram Choudhary (2013)
+The NNF Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen, Denmark
+
+Note that in the paper they specifically note that the protein lists will be bias towards mitochondrial proteins as these are by far the most abundant in mouse Liver
+
+Table columns:
+id	Unique identifier for this table
+Proteins	Identifiers of all possible proteins this site is associated with.
+Positions	The positions of the modifications in all possible protein amino acid sequences.
+Protein	Identifier of the protein this peptide is associated with.
+Position	The position of the modifications in the protein amino acid sequence.
+Protein Names	Names of the proteins
+Gene Names	Names of the genes
+Fasta headers	Descriptions of proteins this peptide is associated with.
+Localization prob	Probability that the site is correctly localized at the position in the peptide.
+Sequence window	13 amino acid window (+/- 6 amino acids) surrounding the acetylation site.
+PEP	Posterior Error Probability of the identification. This value essentially operates as a p-value, where smaller is more significant.
+Score	The Andromeda score of the identification (higher is better).
+Modified sequence	Sequence representation of the peptide including location(s) of modified amino acids.
+acetyl (K) Probabilities	Sequence representation of the peptide including the probability of succinylation occuring at each lysine residue.
+Charge	Charge state of the precursor ion.
+m/z	Recalibrated m/z of the precursor ion.
+Mass error [ppm]	Mass error of the recalibrated mass-over-charge value of the precursor ion in comparison to the predicted monoisotopic mass of the identified peptide sequence.
+MitoCarta	Protein is localized to mitochondria according to the MitoCarta database
+UniProt "Mitochonrion"	Protein is associate with the UniProt keyword "Mitochondrion"
+UniProt "Cytoplasm"	Protein is associate with the UniProt keyword "Cytoplasm"
+UniProt "Nuclear"	Protein is associate with the UniProt keyword "Nuclear"
+
+
+
+## Tan_glutarylation:
+
+Glutarylation data on mouse MEF from:
+Lysine Glutarylation Is a Protein Posttranslational Modification Regulated by SIRT5
+Tan et al (2014) - Yingming Zhao, Matthew Hirschey, David Lombard (see next), Scott Pletcher
+Too many authors and insitututions to list but no overlap with above. However lots of previous publications regarding lysine acylation,
+including the first proteomic analyses of succinylation and malonylation (neither in mouse unfortunately though).
+
+Again, mouse liver so mitochondrial bias expected.
+
+Need to convert Gene names to Uniprot ID. This will likely result in loss of data unfortunately. 
+
+
+##  Colaka_malonylation
+
+Malonylation data from mouse on from: 
+
+Proteomic and Biochemical Studies of Lysine Malonylation Suggest Its Malonic Aciduria-associated Regulatory Role in Mitochondrial Function and Fatty Acid Oxidation*
+
+Gozde Colaka,b, Olga Pougovkinab,c, Lunzhi Daia,b, Minjia Tand,e, Heleen te Brinkec, He Huanga, Zhongyi Chengf, Jeongsoon Parkg, Xuelian Wand, Xiaojing Liuh, Wyatt W. Yuei, Ronald J. A. Wandersc,j, Jason W. Locasaleh, David B. Lombardg, Vincent C. J. de Boerc,j,k and Yingming Zhaoa,d,l 
+
+aBen May Department of Cancer Research, University of Chicago, Chicago, Illinois 60637,
+cLaboratory of Genetic Metabolic Diseases, Department of Clinical Chemistry and
+jDepartment of Pediatrics, Emma's Children Hospital, Academic Medical Center, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands,
+dState Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China,
+fPTM Biolabs, Chicago, Illinois 60612,
+gDepartment of Pathology and Institute of Gerontology, University of Michigan, Ann Arbor, Michigan 48109,
+hDivision of Nutritional Sciences, Cornell University, Ithaca, New York 14853, and
+iStructural Genomics Consortium, University of Oxford, Oxford OX3 7DQ, United Kingdom
+
+Considerable overlap in authors with Tan et al mouse MEF glutarylation
+
+
+
+##  Rardin_succinylation:
+
+Succinylation data on mouse liver from:
+SIRT5 regulates the mitochondrial lysine succinylome and metabolic networks
+Rardin et al (2013). Too many authors and institutions to list but no overlap with above papers it appears. Same group as below
+
+Used S2 - Quantification of Lysine Succinylated Peptides by MS1 Filtering, Related to Figure 2 and 3.  
+Columns:
+Accession#	Uniprot accession number
+Modified Sequence	Sequence of the identified peptide with value indicating the molecular weight of the modification, e.g.  Lysine succinylation [+100], carbamidomethyl cysteine [+57]
+Site	Amino acid position of the succinylation site within the protein sequence starting with the start methionine
+Precursor M	Mass of the precursor peptide
+z	Charge state of the precursor ion
+m/z	Mass to charge ratio
+Retention Time	Time the spectrum was generated during the MS acquisition
+Mean	Sum of the peptide area from each acquisition divided by the number of acquisitions
+Stan. Dev.	Standard Deviation
+CV	Coefficient of variation
+Ratio (KO:WT)	Ratio of the average area of the peptides from the SIRT5-/- samples divided by the WT
+Norm. 	Data normalized to the internal peptide standard. *All number reported in the manuscript use the normalized value.
+Unnorm.	Data calculated without normalization to the internal peptide standard
+p-Value	Scored using Student's t-test, n=5
+
+
+##  Nishida_malonylation:
+malonylation data on mouse liver from:
+SIRT5 Regulates both Cytosolic and Mitochondrial Protein Malonylation with Glycolysis as a Major Target.
+Nishida Y1, Rardin MJ2, Carrico C1, He W1, Sahu AK2, Gut P1, Najjar R3, Fitch M4, Hellerstein M5, Gibson BW6, Verdin E7.
+
+1Gladstone Institutes and University of California, San Francisco, San Francisco, CA 94158, USA.
+2Buck Institute for Research on Aging, 8001 Redwood Boulevard, Novato, CA 94945, USA.
+3Cell Signaling Technology, Inc, 3 Trask Lane, Danvers, MA 01923, USA.
+4Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA.
+5Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA; KineMed, Inc., Emeryville, CA 94608, USA.
+6Buck Institute for Research on Aging, 8001 Redwood Boulevard, Novato, CA 94945, USA. Electronic address: bgibson@buckinstitute.org.
+7Gladstone Institutes and University of California, San Francisco, San Francisco, CA 94158, USA. Electronic address: everdin@gladstone.ucsf.edu.
+
+Same group as above
+Same analysis as above. Should be easy to intergrate.
+
+See figure 4:
+Glycolytic Enzymes Are Hyper-Malonylated in the Absence of SIRT5
+
+Again, taken S2 - Quantification of Lysine-Malonylated Peptides by MS1 Filtering.  
+
+Columns:
+Accession#	Uniprot accession number
+Modified Sequence	Sequence of the identified peptide with value indicating the molecular weight of the modification, e.g.  Lysine malonylation [+86], carbamidomethyl cysteine [+57], etc.
+Site	Amino acid position of the malonyylation site within the protein sequence begining with the start methionine
+Precursor M	Mass of the precursor peptide
+z	Charge state of the precursor ion
+m/z	Mass to charge ratio
+Retention Time	Time the spectrum was generated during the MS acquisition
+Mean	Sum of the peptide area from each acquisition divided by the number of acquisitions
+Stan. Dev.	Standard Deviation
+CV	Coefficient of variation
+Ratio (KO:WT)	Ratio of the average area of the peptides from the SIRT5-/- samples divided by the WT
+p-Value	Scored using Student's t-test, n=5
+
+
+
+
+
+
+#################################################################
+#### Leave this out for now as it's the only non liver data  ####
+
+## Park_succinylation:
+
+Succinylation data on mouse MEF from
+SIRT5-Mediated Lysine Desuccinylation Impacts Diverse Metabolic Pathways
+
+Jeongsoon Park1, 6, Yue Chen3, 6, Daniel X. Tishkoff1, 5, Chao Peng3, Minjia Tan3, 4, Lunzhai Dai3, Zhongyu Xie3, Yi Zhang4, Bernadette M.M. Zwaans1, Mary E. Skinner1, David B. Lombard1, Yingming Zhao3, 4,
+
+1-2 University of Michigan, Ann Arbor, MI 48109, USA
+3 Ben May Department of Cancer Research, The University of Chicago, Chicago, IL 60637, USA
+4 State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China
+
+Performed on mouse MEF (fibroblast) - Less mitochondrial bias?
+
+Column descriptions:
+
+Proteins	Identifiers of proteins this site is associated with
+Positions within proteins	"For each protein identifier in the 'Proteins' column you find here
+the psoition of the site in the respective protein sequence"
+Leading proteins	Top protein identifiers in protein groups
+Fasta headers	Protein header information from the fasta protein database
+PEP	Posterior Error Probability of the identification
+Score	Maxquant Andromeda score
+Modified sequence	"Sequence representation of the peptide including location(s) of
+modified Aas"
+Position in peptide	The postion of the modification in the peptide sequence
+Charge	Charge state of the precursor ion
+m/z	Recalibrated m/z of the precursor ion
+Mass error [ppm]	Mass error of the recalibrated mass-over-charge value of the precursor ion in comparison to the predicted monoisotopic mass of the identified peptide sequence
+Ratio H/L	The ratio between heavy and light label partners
+Ratio H/L normalized	Normalized ratio between heavy and light label partners
+Intensity	Summed up eXtracted Ion Current (XIC) of all isotopic clusters associated with the identified AA sequence
+Positions	The positions of the modifications in all leading protein sequences
+Position	The position of the modification in one leading protein sequence
+Ratio Sirt5 KO/WT	Normalized SILAC ratios (Sirt5 KO/WT) for the modification site
+Mapped Gene IDs	NCBI Gene identifiers of leading proteins
+Mapped Gene Names	NCBI Gene names of leading proteins
+ProtRatio H/L	The ratio between heavy and light protein
+ProtRatio H/L Normalized	Normalized ratio between heavy and light label protein
+Sequence coverage [%]	Percentage of the sequence that is covered by the identified peptides of the best protein sequence contained in the group
+Site ratios Sirt5 KO/WT normalized with protein ratios	SILAC ratios (Sirt5 KO/WT) for the modification site normalized by corresponding protein SILAC ratio
+Unmod Sequence	The complete tryptic peptide by the modification site used for calculating modification stoichiometry
+Unmod Ratio H/L	The ratio between heavy and light label unmodified peptide
+UnmodRatio H/L Normalized	Normalized ratio between heavy and light label unmodified peptide
+Stoichiometry Light (Sirt5 KO)	Stoichiometry of the modification from Sirt5 KO cell
+Stoichiometry Heavy (Wildtype)	Stoichiometry of the modification from WT cell
+
+#### Leave this out for now as it's the only non liver data  ####
+#################################################################
