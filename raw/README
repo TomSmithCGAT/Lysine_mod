@@ -38,15 +38,16 @@ UniProt "Nuclear"	Protein is associate with the UniProt keyword "Nuclear"
 
 ## Tan_glutarylation:
 
-Glutarylation data on mouse MEF from:
+
+Glutarylation data on mouse liver from:
 Lysine Glutarylation Is a Protein Posttranslational Modification Regulated by SIRT5
 Tan et al (2014) - Yingming Zhao, Matthew Hirschey, David Lombard (see next), Scott Pletcher
-Too many authors and insitututions to list but no overlap with above. However lots of previous publications regarding lysine acylation,
-including the first proteomic analyses of succinylation and malonylation (neither in mouse unfortunately though).
+Too many authors and insitututions. Lots of previous publications regarding lysine acylation and below (malonylation)
+including the first proteomic analyses of succinylation (not in mouse unfortunately though).
 
 Again, mouse liver so mitochondrial bias expected.
 
-Need to convert Gene names to Uniprot ID. This will likely result in loss of data unfortunately. 
+# ID is PIP which causes lots of problems. This data has eneded up largely ignored. Need to convert to Uniprot ID. This resulta in loss of data. 
 
 
 ##  Colaka_malonylation
@@ -69,73 +70,26 @@ iStructural Genomics Consortium, University of Oxford, Oxford OX3 7DQ, United Ki
 Considerable overlap in authors with Tan et al mouse MEF glutarylation
 
 
-
-##  Rardin_succinylation:
-
-Succinylation data on mouse liver from:
-SIRT5 regulates the mitochondrial lysine succinylome and metabolic networks
-Rardin et al (2013). Too many authors and institutions to list but no overlap with above papers it appears. Same group as below
-
-Used S2 - Quantification of Lysine Succinylated Peptides by MS1 Filtering, Related to Figure 2 and 3.  
-Columns:
-Accession#	Uniprot accession number
-Modified Sequence	Sequence of the identified peptide with value indicating the molecular weight of the modification, e.g.  Lysine succinylation [+100], carbamidomethyl cysteine [+57]
-Site	Amino acid position of the succinylation site within the protein sequence starting with the start methionine
-Precursor M	Mass of the precursor peptide
-z	Charge state of the precursor ion
-m/z	Mass to charge ratio
-Retention Time	Time the spectrum was generated during the MS acquisition
-Mean	Sum of the peptide area from each acquisition divided by the number of acquisitions
-Stan. Dev.	Standard Deviation
-CV	Coefficient of variation
-Ratio (KO:WT)	Ratio of the average area of the peptides from the SIRT5-/- samples divided by the WT
-Norm. 	Data normalized to the internal peptide standard. *All number reported in the manuscript use the normalized value.
-Unnorm.	Data calculated without normalization to the internal peptide standard
-p-Value	Scored using Student's t-test, n=5
-
-
-##  Nishida_malonylation:
-malonylation data on mouse liver from:
-SIRT5 Regulates both Cytosolic and Mitochondrial Protein Malonylation with Glycolysis as a Major Target.
-Nishida Y1, Rardin MJ2, Carrico C1, He W1, Sahu AK2, Gut P1, Najjar R3, Fitch M4, Hellerstein M5, Gibson BW6, Verdin E7.
-
-1Gladstone Institutes and University of California, San Francisco, San Francisco, CA 94158, USA.
-2Buck Institute for Research on Aging, 8001 Redwood Boulevard, Novato, CA 94945, USA.
-3Cell Signaling Technology, Inc, 3 Trask Lane, Danvers, MA 01923, USA.
-4Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA.
-5Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA; KineMed, Inc., Emeryville, CA 94608, USA.
-6Buck Institute for Research on Aging, 8001 Redwood Boulevard, Novato, CA 94945, USA. Electronic address: bgibson@buckinstitute.org.
-7Gladstone Institutes and University of California, San Francisco, San Francisco, CA 94158, USA. Electronic address: everdin@gladstone.ucsf.edu.
-
-Same group as above
-Same analysis as above. Should be easy to intergrate.
-
-See figure 4:
-Glycolytic Enzymes Are Hyper-Malonylated in the Absence of SIRT5
-
-Again, taken S2 - Quantification of Lysine-Malonylated Peptides by MS1 Filtering.  
+## Cheng_succinylation
+Quantitative succinylome analysis in the liver of non-alcoholic fatty liver disease rat model
+Yang Cheng, Tianlu Hou, Jian Ping, Gaofeng Chen and Jianjie Chen
 
 Columns:
-Accession#	Uniprot accession number
-Modified Sequence	Sequence of the identified peptide with value indicating the molecular weight of the modification, e.g.  Lysine malonylation [+86], carbamidomethyl cysteine [+57], etc.
-Site	Amino acid position of the malonyylation site within the protein sequence begining with the start methionine
-Precursor M	Mass of the precursor peptide
-z	Charge state of the precursor ion
-m/z	Mass to charge ratio
-Retention Time	Time the spectrum was generated during the MS acquisition
-Mean	Sum of the peptide area from each acquisition divided by the number of acquisitions
-Stan. Dev.	Standard Deviation
-CV	Coefficient of variation
-Ratio (KO:WT)	Ratio of the average area of the peptides from the SIRT5-/- samples divided by the WT
-p-Value	Scored using Student's t-test, n=5
+Protein accession
+Protein names
+Succinylated Position
+Score (MaxQuant)
+Modified sequence
+NAFLD/Contro Ratio(a)
+First repeat (Yes/No)
+Second repeat (Yes/No)
 
+(a), not quantified means the  identified succinylated site can’t be quantified between NAFLD group and Control group, because of insufficient collection of reporter ions. 
 
+Two technical repeats. We'll just use the peptides identified in both.
 
-
-
-
-#################################################################
-#### Leave this out for now as it's the only non liver data  ####
+###########################################################
+#### We'll include though its the only non liver data  ####
 
 ## Park_succinylation:
 
@@ -183,5 +137,162 @@ UnmodRatio H/L Normalized	Normalized ratio between heavy and light label unmodif
 Stoichiometry Light (Sirt5 KO)	Stoichiometry of the modification from Sirt5 KO cell
 Stoichiometry Heavy (Wildtype)	Stoichiometry of the modification from WT cell
 
-#### Leave this out for now as it's the only non liver data  ####
-#################################################################
+#### We'll include though its the only non liver data  ####
+###########################################################
+
+
+
+##  Rardin_succinylation:
+
+Succinylation data on mouse liver from:
+SIRT5 regulates the mitochondrial lysine succinylome and metabolic networks
+Rardin et al (2013). Too many authors and institutions to list but no overlap with above papers it appears. Same group as below
+
+Used S2 - Quantification of Lysine Succinylated Peptides by MS1 Filtering, Related to Figure 2 and 3.  
+Columns:
+Accession#	Uniprot accession number
+Modified Sequence	Sequence of the identified peptide with value indicating the molecular weight of the modification, e.g.  Lysine succinylation [+100], carbamidomethyl cysteine [+57]
+Site	Amino acid position of the succinylation site within the protein sequence starting with the start methionine
+Precursor M	Mass of the precursor peptide
+z	Charge state of the precursor ion
+m/z	Mass to charge ratio
+Retention Time	Time the spectrum was generated during the MS acquisition
+Mean	Sum of the peptide area from each acquisition divided by the number of acquisitions
+Stan. Dev.	Standard Deviation
+CV	Coefficient of variation
+Ratio (KO:WT)	Ratio of the average area of the peptides from the SIRT5-/- samples divided by the WT
+Norm. 	Data normalized to the internal peptide standard. *All number reported in the manuscript use the normalized value.
+Unnorm.	Data calculated without normalization to the internal peptide standard
+p-Value	Scored using Student's t-test, n=5
+
+
+##  Nishida_malonylation:
+malonylation data on mouse liver from:
+SIRT5 Regulates both Cytosolic and Mitochondrial Protein Malonylation with Glycolysis as a Major Target.
+Nishida Y1, Rardin MJ2, Carrico C1, He W1, Sahu AK2, Gut P1, Najjar R3, Fitch M4, Hellerstein M5, Gibson BW6, Verdin E7.
+
+1Gladstone Institutes and University of California, San Francisco, San Francisco, CA 94158, USA.
+2Buck Institute for Research on Aging, 8001 Redwood Boulevard, Novato, CA 94945, USA.
+3Cell Signaling Technology, Inc, 3 Trask Lane, Danvers, MA 01923, USA.
+4Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA.
+5Department of Nutritional Sciences and Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA; KineMed, Inc., Emeryville, CA 94608, USA.
+6Buck Institute for Research on Aging, 8001 Redwood Boulevard, Novato, CA 94945, USA. Electronic address: bgibson@buckinstitute.org.
+7Gladstone Institutes and University of California, San Francisco, San Francisco, CA 94158, USA. Electronic address: everdin@gladstone.ucsf.edu.
+
+Same group as Rardin et al above
+Same analysis as above. Should be easy to intergrate.
+
+See figure 4:
+Glycolytic Enzymes Are Hyper-Malonylated in the Absence of SIRT5
+
+Again, taken S2 - Quantification of Lysine-Malonylated Peptides by MS1 Filtering.  
+
+Columns:
+Accession#	Uniprot accession number
+Modified Sequence	Sequence of the identified peptide with value indicating the molecular weight of the modification, e.g.  Lysine malonylation [+86], carbamidomethyl cysteine [+57], etc.
+Site	Amino acid position of the malonyylation site within the protein sequence begining with the start methionine
+Precursor M	Mass of the precursor peptide
+z	Charge state of the precursor ion
+m/z	Mass to charge ratio
+Retention Time	Time the spectrum was generated during the MS acquisition
+Mean	Sum of the peptide area from each acquisition divided by the number of acquisitions
+Stan. Dev.	Standard Deviation
+CV	Coefficient of variation
+Ratio (KO:WT)	Ratio of the average area of the peptides from the SIRT5-/- samples divided by the WT
+p-Value	Scored using Student's t-test, n=5
+
+
+
+## Sadhukhan_succinylation.csv
+
+Metabolomics-assisted proteomics identifies succinylation and SIRT5 as important regulators of cardiac function
+
+    Sushabhan Sadhukhana, Xiaojing Liub,c,d, Dongryeol Ryue, Ornella D. Nelsona, John A. Stupinskif, Zhi Lia, Wei Cheng, Sheng Zhangg, Robert S. Weissf, Jason W. Locasaleb,c,d, Johan Auwerxe,1, and Hening Lina,h,1 
+aDepartment of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14853;
+bDuke Cancer Institute, Duke University School of Medicine, Durham, NC 27710;
+cDuke Molecular Physiology Institute, Duke University School of Medicine, Durham, NC 27710;
+dDepartment of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC 27710;
+eLaboratory of Integrative and Systems Physiology, School of Life Sciences, École Polytechnique Fédérale de Lausanne, 1015 Lausanne, Switzerland;
+fDepartment of Biomedical Sciences, Cornell University, Ithaca, NY 14853;
+gProteomics & Mass Spectrometry Facility, Institute of Biotechnology, Cornell University, Ithaca, NY 14853;
+hHoward Hughes Medical Institute, Cornell University, Ithaca, NY 14853
+
+Succinylation data (+ SIRT5 KO) for mouse heart
+
+Data was manually curated from Supplementary Table 2. 
+Retained one peptide per ratio (ensured peptide contains all succ. lysines). Removed unwanted columns.
+Columns:
+Sequence - peptide seq.
+Modifications (light) - Modified residues
+KO/WT - ratio between SIRT5 -/- and WT
+Protein Group Accessions - GIs(!) - See below for conversion
+Protein name - Actually a description
+
+
+
+#### E-Cadherin interactome data ####
+ECadherin_interacome.tsv
+
+Data downloaded from:
+E-cadherin interactome complexity and robustness resolved by quantitative proteomics (2014)
+
+Proteomics on proteins interacting with E-Cadherin:
+"We used proximity biotinylation and quantitative proteomics to identify 561 proteins in the vicinity of the cytoplasmic tail of E-cadherin."
+
+We want to rank our modified cytosolic proteins in this list of interacting proteins
+
+
+
+### Files for ID conversion ###
+
+EMBL-EBI TreeFam Human:Mouse protein orthologs from:
+http://www.treefam.org/download#tabview=tab1
+Homo_sapiens-Mus_musculus.txt
+
+Uniprot ID mapping downloads
+HUMAN_9606_idmapping_selected.tab
+
+MOUSE_10090_idmapping_selected.tab
+
+Sadhukhan_id_map.tab - GI to uniprot ID for Sadhukhan succinylation data. Only retained Uniprot (reviewed) IDs.
+From Uniprot conversion tool using all IDs in Sadhukhan_succinylation.csv
+
+
+ELMs:
+Download Eukaryotic Linear Motifs from elm.eu.org
+saved output from http://elm.eu.org/instances.tsv?taxon=mus+musculus
+as elm.tsv
+
+Protein Expression:
+Downloaded embryonic abundance from PaxDB:
+From this study
+Initial quantitative proteomic map of 28 mouse tissues using the SILAC mouse.
+Geiger T1, Velic A, Macek B, Lundberg E, Kampf C, Nagaraj N, Uhlen M, Cox J, Mann M.
+https://www.ncbi.nlm.nih.gov/pubmed/23436904
+
+> wget http://pax-db.org/data/abundances/10090-Embryonic_tissue_geiger_2013.txt
+
+
+---- 28 MAR 17 ----
+Downloaded PhylomeDB files (release 201601)
+(ftp://phylomedb.org/metaphors/)
+
+orthlogs -> 10090.txt.gz
+Mouse orthologs
+
+id_conversion.txt.gz
+Id mapping. This was shortened to just the SwissProt/TrEMBL Ids:
+> zcat /tmp/mozilla_tss380/id_conversion.txt.gz |awk -F"\t" '$2~"SwissProt|TrEMBL"' > phylomeDB_id_conversion.tsv
+
+
+Downloaded ortholog files from orthodb:
+http://www.orthodb.org/?page=filelist
+odb9v1_genes.tab.gz 	366.4 MB 	Table of genes
+odb9v1_OGs.tab.gz 	30.7 MB 	Table of cluster ids
+odb9v1_OG2genes.tab.gz 	0.5 GB 	Map cluster ids to gene ids
+
+For some reason, get the following error when parsing the OGs table:
+'ascii' codec can't decode byte 0xc3 in position 2372: ordinal not in range(128)
+
+The following command generates an infile which is OK
+> zcat  odb9v1_OGs.tab.gz > odb9v1_OGs_corrected.tab
