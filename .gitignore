@@ -1,0 +1,11 @@
+*.pyo
+*.pyc
+*#
+*~
+raw/Confetti_sorted_peptides*
+raw/*_idmapping_selected.tab
+raw/odb*
+*/.nfs*
+plots.dir/*
+notebooks/.ipynb_checkpoints/*
+notebooks/results/*
