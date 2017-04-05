@@ -1,0 +1,276 @@
+Accession	ELMType	ELMIdentifier	ProteinName	Primary_Acc	Accessions	Start	End	References	Methods	InstanceLogic	PDB	Organism
+ELMI003243	MOD	MOD_CDK_SPK_2	CABL1_MOUSE	Q9ESJ1	Q9ESJ1 E9QNI6 Q9EPR8	271	276	11733001	Two dimensional phosphopeptide mapping; coimmunoprecipitation; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI003242	MOD	MOD_CDK_SPK_2	TBB5_MOUSE	P99024	P99024 B1B178 P05218 Q3TFB6 Q3THH9 Q3TIL1 Q3UAV4 Q3UF52 Q8WUC1 Q9CY33	169	174	16371510	alanine scanning; inhibitor; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI003237	MOD	MOD_CDK_SPK_2	MYOD1_MOUSE	P10085	P10085 Q8C6B1	197	202	10082583	Two dimensional phosphopeptide mapping; electrophoretic mobility supershift assay; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003235	MOD	MOD_CDK_SPK_2	MCM3_MOUSE	P25206	P25206 Q61492	109	114	18524952	identification by antibody; inhibitor; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003209	MOD	MOD_CDK_SPxxK_3	DDX3Y_MOUSE	Q62095	Q62095 Q9QWS9	200	207	17379183	mutation analysis; protein kinase assay; western blot	true positive		Mus musculus
+ELMI003223	MOD	MOD_CDK_SPxxK_3	CSKP_MOUSE	O70589	O70589 A2ADP8 A2ADP9 A2ADQ4 O70588 Q3UW92	392	399	18054859	alanine scanning; colocalization; detection by mass spectrometry; phosphoamino acid analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003221	MOD	MOD_CDK_SPxxK_3	APEX1_MOUSE	P28352	P28352	229	236	20473298	alanine scanning; inhibitor; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI003220	MOD	MOD_CDK_SPxxK_3	UBF1_MOUSE	P25976	P25976	386	393	11698641	Two dimensional phosphopeptide mapping; comigration in sds page; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003216	MOD	MOD_CDK_SPxxK_3	UBA1_MOUSE	Q02053	Q02053 A6H6S6 P31253 Q542H8	1	8	7673335	Two dimensional phosphopeptide mapping; alanine scanning; comigration in gel electrophoresis; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003214	MOD	MOD_CDK_SPxxK_3	CDN1A_MOUSE	P39689	P39689	75	82	21325496	comigration in gel electrophoresis; detection by mass spectrometry; mutation analysis	true positive		Mus musculus
+ELMI003211	MOD	MOD_CDK_SPxxK_3	MYOD1_MOUSE	P10085	P10085 Q8C6B1	2	9	14749395	alanine scanning; electrophoretic mobility shift assay; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003315	DOC	DOC_MAPK_HePTP_8	PTPRR_MOUSE	Q62132	Q62132 Q64491 Q64492 Q9QUH9	332	344	9857190	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI003286	DOC	DOC_MAPK_MEF2A_6	TAB1_MOUSE	Q8CF89	Q8CF89 Q7TQJ5 Q80V65 Q8R0D1	400	409	24037507	isothermal titration calorimetry; mutation analysis; nuclear magnetic resonance; western blot; x-ray crystallography	true positive	4LOO 4LOP 4LOQ	Mus musculus
+ELMI003188	LIG	LIG_BH_BH3_1	BBC3_MOUSE	Q99ML1	Q99ML1	133	149	18462686 18589438	isothermal titration calorimetry; nuclear magnetic resonance; x-ray crystallography	true positive	2ROC 2VOF	Mus musculus
+ELMI003190	LIG	LIG_BH_BH3_1	APR_MOUSE	Q9JM54	Q9JM54	70	86	17389404 18589438	alanine scanning; isothermal titration calorimetry; nuclear magnetic resonance; phage display; x-ray crystallography	true positive		Mus musculus
+ELMI003187	LIG	LIG_BH_BH3_1	APR_MOUSE	Q9JM54	Q9JM54	19	35	18589438	alanine scanning; isothermal titration calorimetry; nuclear magnetic resonance; phage display; surface plasmon resonance	true positive	2ROD	Mus musculus
+ELMI003200	LIG	LIG_BH_BH3_1	BAX_MOUSE	Q07813	Q07813	55	71	21060336	alanine scanning; isothermal titration calorimetry; x-ray crystallography	true positive	2XA0	Mus musculus
+ELMI003196	LIG	LIG_BH_BH3_1	BIK_MOUSE	O70337	O70337	47	63	9525867	mutation analysis	true positive		Mus musculus
+ELMI003192	LIG	LIG_BH_BH3_1	BID_MOUSE	P70444	P70444 Q99M39	82	98	18462686	isothermal titration calorimetry; x-ray crystallography	true positive	2VOI	Mus musculus
+ELMI003191	LIG	LIG_BH_BH3_1	BMF_MOUSE	Q91ZE9	Q91ZE9 Q8BUK0	130	146	18462686	isothermal titration calorimetry; x-ray crystallography	true positive	2VOG	Mus musculus
+ELMI003186	LIG	LIG_BH_BH3_1	B2L11_MOUSE	O54918-2	O54918 A2ALQ6 O54919 O54920	86	102	15694340 14499110	biosensor; competition binding; gst pull down; mutation analysis; x-ray crystallography	true positive	1PQ1	Mus musculus
+ELMI003131	LIG	LIG_Rb_LxCxE_1	IFI2_MOUSE	Q9R002	Q9R002 E9QLD9 P15091 Q38JF1 Q7TMN6 Q8VEL7	413	433	23850291 7890747	gst pull down; mutation analysis; x-ray crystallography	false positive	4L5T	Mus musculus
+ELMI003116	LIG	LIG_Rb_LxCxE_1	IFI4_MOUSE	P15092	P15092 Q921V9	418	434	10951565	coimmunoprecipitation; mutation analysis	false positive		Mus musculus
+ELMI003093	DOC	DOC_MAPK_NFAT4_5	JUND_MOUSE	P15066	P15066	52	60	12052834	alanine scanning; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI003091	DOC	DOC_MAPK_NFAT4_5	MABP1_MOUSE	Q6NS57	Q6NS57 A2AWL8 Q80TW5 Q9R0L0	1282	1290	10471813	gst pull down; two hybrid; western blot	true positive		Mus musculus
+ELMI003081	DOC	DOC_MAPK_JIP1_4	BMPR2_MOUSE	O35607	O35607	937	943	20176805	coimmunoprecipitation; deletion analysis; gst pull down; luminescence based mammalian interactome mapping; mutation analysis	true positive		Mus musculus
+ELMI003080	DOC	DOC_MAPK_JIP1_4	BMPR2_MOUSE	O35607	O35607	754	760	20176805	coimmunoprecipitation; deletion analysis; gst pull down; luminescence based mammalian interactome mapping; mutation analysis	true positive		Mus musculus
+ELMI001032	DOC	DOC_MAPK_FxFP_2	VINEX_MOUSE	Q9R1Z8	Q9R1Z8 Q62423	630	633	15184391	alanine scanning; coimmunoprecipitation; mutation analysis; western blot	true positive		Mus musculus
+ELMI003053	DOC	DOC_MAPK_FxFP_2	RHG31_MOUSE	A6X8Z5	A6X8Z5 Q3TL91 Q3U1T7 Q3UDE7 Q3UUH4 Q6ZPW0 Q9WV94	677	680	16024771	alanine scanning	true positive		Mus musculus
+ELMI003050	DOC	DOC_MAPK_FxFP_2	FOSL2_MOUSE	P47930	P47930 Q3UKX7 Q8C231	282	285	14673150	alanine scanning; electrophoretic mobility shift assay	true positive		Mus musculus
+ELMI003049	DOC	DOC_MAPK_FxFP_2	FOSL1_MOUSE	P48755	P48755 O35285	237	240	14673150	alanine scanning; electrophoretic mobility shift assay	true positive		Mus musculus
+ELMI003047	DOC	DOC_MAPK_FxFP_2	KSR1_MOUSE	Q61097	Q61097 Q61648 Q78DX8	471	474	9925641	alanine scanning; western blot	true positive		Mus musculus
+ELMI003018	LIG	LIG_14-3-3_CanoR_1	KSR1_MOUSE	Q61097	Q61097 Q61648 Q78DX8	294	302	9858547	coimmunoprecipitation	true positive		Mus musculus
+ELMI003045	LIG	LIG_14-3-3_CanoR_1	KSR1_MOUSE	Q61097	Q61097 Q61648 Q78DX8	388	394	9858547	coimmunoprecipitation	true positive		Mus musculus
+ELMI003036	LIG	LIG_14-3-3_CanoR_1	PTPN3_MOUSE	A2ALK8	A2ALK8	356	361	9341175	mutation analysis; pull down	true positive		Mus musculus
+ELMI002992	LIG	LIG_14-3-3_CanoR_1	WWTR1_MOUSE	Q9EPK5	Q9EPK5 Q3UQ69 Q3UQM0 Q99KI4	86	91	11118213	anti tag coimmunoprecipitation; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI002996	LIG	LIG_14-3-3_CanoR_1	BAD_MOUSE	Q61337	Q61337	109	114	8929531	anti tag coimmunoprecipitation; coimmunoprecipitation; mutation analysis	true positive		Mus musculus
+ELMI002997	LIG	LIG_14-3-3_CanoR_1	BAD_MOUSE	Q61337	Q61337	133	138	8929531 10949026	anti tag coimmunoprecipitation; coimmunoprecipitation; mutation analysis	true positive		Mus musculus
+ELMI002995	LIG	LIG_14-3-3_CanoR_1	YAP1_MOUSE	P46938	P46938 Q52KJ5 Q91WL1	109	114	11118213	coimmunoprecipitation; inferred by author; interologs	true positive		Mus musculus
+ELMI002966	LIG	LIG_CSL_BTD_1	A2AEX7_MOUSE	A2AEX7	A2AEX7	190	193	24290140	isothermal titration calorimetry; mutation analysis; x-ray crystallography	true positive	4J2X	Mus musculus
+ELMI002949	LIG	LIG_ANK_PxLPxL_1	HDAC5_MOUSE	Q9Z2V6	Q9Z2V6 Q9JL73	358	367	15964851	fluorescence microscopy; pull down	true positive		Mus musculus
+ELMI002931	LIG	LIG_KLC1_WD_1	ATCAY_MOUSE	Q8BHE3	Q8BHE3 Q3TR94	116	125	19861499	electron microscopy; gst pull down; two hybrid; western blot	true positive		Mus musculus
+ELMI002929	LIG	LIG_KLC1_WD_1	CSTN1_MOUSE	Q9EPL2	Q9EPL2 A2A800 B2KFP1 B2KFP2 Q69ZV9 Q7TS67 Q8K103	970	977	23519214 16760430	coimmunoprecipitation; gst pull down	true positive		Mus musculus
+ELMI002928	LIG	LIG_KLC1_WD_1	CSTN1_MOUSE	Q9EPL2	Q9EPL2 A2A800 B2KFP1 B2KFP2 Q69ZV9 Q7TS67 Q8K103	901	910	23519214 16760430	coimmunoprecipitation; gst pull down	true positive		Mus musculus
+ELMI002908	LIG	LIG_GSK3_LRP6_1	LRP6_MOUSE	O88572	O88572	1527	1532	14731402	sequence based prediction	true positive		Mus musculus
+ELMI002878	DOC	DOC_GSK3_Axin_1	AXIN1_MOUSE	O35625	O35625	383	399	10490650	sequence based prediction	true positive		Mus musculus
+ELMI002858	LIG	LIG_Mtr4_Trf4_2	PAPD5_MOUSE	Q68ED3	Q68ED3 A6H635 Q8C0K6	18	25		inferred by curator	unknown		Mus musculus
+ELMI002763	LIG	LIG_CNOT1_NIM_1	NANO2_MOUSE	P60322	P60322 F8VQ09	6	15	22448252	anti tag coimmunoprecipitation; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI002832	DEG	DEG_Kelch_Keap1_2	NF2L2_MOUSE	Q60795	Q60795 Q3UQK0	26	32	24366543 17785452	alanine scanning; gst pull down; isothermal titration calorimetry; mutation analysis; surface plasmon resonance; ubiquitinase assay; x-ray crystallography	true positive	2DYH 3WN7	Mus musculus
+ELMI002831	DEG	DEG_Kelch_Keap1_1	SQSTM_MOUSE	Q64337	Q64337 Q99JM8	349	354	20173742	alanine scanning; coimmunoprecipitation; competition binding; gst pull down; isothermal titration calorimetry; x-ray crystallography	true positive	3ADE	Mus musculus
+ELMI002825	DEG	DEG_Kelch_Keap1_1	PTMA_MOUSE	P26350	P26350 Q3UQV6	41	46	18391415 23318954	coimmunoprecipitation; isothermal titration calorimetry; nuclear magnetic resonance; peptide array; two hybrid; x-ray crystallography	true positive	2Z32	Mus musculus
+ELMI002819	DEG	DEG_Kelch_Keap1_1	NF2L2_MOUSE	Q60795	Q60795 Q3UQK0	77	82	16507366 12167159	alanine scanning; green fluorescent protein tag; isothermal titration calorimetry; mutation analysis; two hybrid; x-ray crystallography	true positive	1X2J 1X2R	Mus musculus
+ELMI002783	LIG	LIG_SUMO_SIM_par_1	KLF4_MOUSE	Q60793	Q60793 P70421 Q3U2D6 Q3URS6 Q78K30 Q9R255	99	104	20584900	his pull down; mutation analysis	true positive		Mus musculus
+ELMI002731	MOD	MOD_GlcNHglycan	SDC1_MOUSE	P18828	P18828 Q62278 Q9WVD2	46	49	8163535	deglycosylase assay; western blot	true positive		Mus musculus
+ELMI002730	MOD	MOD_GlcNHglycan	SDC1_MOUSE	P18828	P18828 Q62278 Q9WVD2	36	39	8163535	deglycosylase assay; western blot	true positive		Mus musculus
+ELMI002729	MOD	MOD_GlcNHglycan	SDC1_MOUSE	P18828	P18828 Q62278 Q9WVD2	216	219	8163535	deglycosylase assay; western blot	true positive		Mus musculus
+ELMI002728	MOD	MOD_GlcNHglycan	SDC1_MOUSE	P18828	P18828 Q62278 Q9WVD2	206	209	8163535	deglycosylase assay; western blot	true positive		Mus musculus
+ELMI002726	MOD	MOD_WntLipid	WNT3A_MOUSE	P27467	P27467	76	89	12717451	depalmitoylase assay; mass detection of residue modification; mutation analysis	true positive		Mus musculus
+ELMI002723	CLV	CLV_PCSK_PC1ET2_1	COLI_MOUSE	P01193	P01193 P01200 Q544U4	203	205	2023902	chromatography technology; cleavage assay; radioimmunoassay	true positive		Mus musculus
+ELMI002722	CLV	CLV_PCSK_PC1ET2_1	COLI_MOUSE	P01193	P01193 P01200 Q544U4	122	124	2023902	chromatography technology; cleavage assay; radioimmunoassay	true positive		Mus musculus
+ELMI002721	CLV	CLV_PCSK_PC1ET2_1	COLI_MOUSE	P01193	P01193 P01200 Q544U4	163	165	2023902	chromatography technology; cleavage assay; radioimmunoassay	true positive		Mus musculus
+ELMI002720	CLV	CLV_PCSK_PC1ET2_1	RENI2_MOUSE	P00796	P00796 P70229 P97955 Q62155	62	64	2015816	cleavage assay; mutation analysis; radioimmunoassay	true positive		Mus musculus
+ELMI002703	LIG	LIG_WW_3	WBP11_MOUSE	Q923D5	Q923D5 O88539 Q3UMD8 Q8VDI0	482	486	19592703 10744724	anti tag coimmunoprecipitation; competition binding; far western blotting; gst pull down; isothermal titration calorimetry; mutation analysis	true positive		Mus musculus
+ELMI002702	LIG	LIG_WW_2	SF01_MOUSE	Q64213	Q64213 E9QK02 O08817 P70167 Q61454 Q921Z4	575	578	9171351	far western blotting; surface plasmon resonance	true positive		Mus musculus
+ELMI002701	LIG	LIG_WW_2	FMN1_MOUSE	Q05860	Q05860 A2AFY9 A2AFZ0 Q05859	877	880	9171351 8605874	alanine scanning; competition binding; far western blotting; gst pull down	true positive		Mus musculus
+ELMI002700	LIG	LIG_WW_2	ENAH_MOUSE	Q03173	Q03173 P70430 P70431 P70432 P70433 Q5D053	602	605	9407065	anti tag coimmunoprecipitation; competition binding; far western blotting; gst pull down; mutation analysis; peptide array	true positive		Mus musculus
+ELMI002644	LIG	LIG_WD40_WDR5_VDV_1	RBBP5_MOUSE	Q8BX09	Q8BX09 Q3TBL4 Q3U3G1 Q6PAP0 Q6PFC2	374	377	20716525	isothermal titration calorimetry; mutation analysis; pull down; x-ray crystallography	true positive	2XL2	Mus musculus
+ELMI002631	DOC	DOC_PP1_SILK_1	IPP2_MOUSE	Q9DCL8	Q9DCL8 Q3UD25 Q8C1A6	12	17	17636256	x-ray crystallography	true positive	2O8G	Mus musculus
+ELMI002628	LIG	LIG_SUFU_1	GLI2_MOUSE	Q0VGT2	Q0VGT2 E9PYJ4	268	275	24217340	anti tag coimmunoprecipitation; mutation analysis	true positive		Mus musculus
+ELMI002626	LIG	LIG_SUFU_1	GLIS3_MOUSE	Q6XP49-2	Q6XP49 Q8BI60	348	355	21543335	coimmunoprecipitation; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI002615	MOD	MOD_GSK3_1	CTNB1_MOUSE	Q02248	Q02248 Q922W1 Q9D335	30	37	12417018	mutation analysis; western blot	true positive		Mus musculus
+ELMI002611	LIG	LIG_SH2_SRC	DAB1_MOUSE	P97318	P97318 A2A963 A2A964 A2A965 A2A966 A2A967 A2A970 P97316 P97317 Q9DAP9	198	201	22586277 11279201	far western blotting; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI002607	MOD	MOD_CDK_SPxK_1	CDN1C_MOUSE	P49919	P49919	339	345	12925736	interologs; sequence based prediction	true positive		Mus musculus
+ELMI002597	LIG	LIG_PDZ_Class_1	PKHG5_MOUSE	Q66T02	Q66T02 A2A8B6 A2A8B7 Q66T00 Q6P3B1 Q6ZQ62 Q8R571	1068	1073	16467373	anti tag coimmunoprecipitation; coimmunoprecipitation	true positive		Mus musculus
+ELMI002594	LIG	LIG_TYR_ITIM	SIG12_MOUSE	Q91Y57	Q91Y57 E9QMD1	430	435	11278955	anti tag coimmunoprecipitation; mutation analysis; western blot	true positive		Mus musculus
+ELMI002572	LIG	LIG_CaMK_CASK_1	APBA1_MOUSE	B2RUJ5	B2RUJ5 Q3UH49 Q8BMF2	381	387	9952408	gst pull down; mutation analysis; western blot	true positive		Mus musculus
+ELMI002561	DEG	DEG_Nend_UBRbox_4	RGS16_MOUSE	P97428	P97428 O09091 P97420 Q80V16	1	3	16222293 10783390	competition binding; knock out; radiolabel; western blot	true positive		Mus musculus
+ELMI002560	DEG	DEG_Nend_UBRbox_4	RGS5_MOUSE	O08850	O08850 Q543B1 Q9D0Z2	1	3	16217033 16222293	competition binding; knock out; mutation disrupting interaction; radiolabel; ubiquitinase assay; western blot	true positive		Mus musculus
+ELMI002559	DEG	DEG_Nend_UBRbox_4	RGS4_MOUSE	O08899	O08899 Q99L30	1	3	16217033 16222293 10783390	competition binding; de novo protein sequencing by mass spectrometry; edman degradation; knock out; mutation disrupting interaction; radiolabel; ubiquitinase assay; western blot	true positive		Mus musculus
+ELMI002547	MOD	MOD_PKB_1	GSK3B_MOUSE	Q9WV60	Q9WV60	4	12	12434148	mutation analysis; x-ray crystallography	true positive	1O6K	Mus musculus
+ELMI002427	MOD	MOD_PKB_1	BAD_MOUSE	Q61337	Q61337	131	139	9346240	inhibitor; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI002475	LIG	LIG_MYND_1	NACAM_MOUSE	P70670	P70670 E9QMB1	1950	1954	12011100	coimmunoprecipitation; colocalization; mutation analysis; mutation disrupting interaction	true positive		Mus musculus
+ELMI002468	LIG	LIG_EABR_CEP55_1	TS101_MOUSE	Q61187	Q61187	155	165	20176808	competition binding; gal4 vp16 complementation	true positive		Mus musculus
+ELMI002466	LIG	LIG_EABR_CEP55_1	PDC6I_MOUSE	Q9WU78	Q9WU78 O88695 O89014 Q3TED2 Q8BSL8 Q8R0H5 Q99LR3 Q9QZN8	798	808	20176808	competition binding; gal4 vp16 complementation	true positive		Mus musculus
+ELMI002464	LIG	LIG_EABR_CEP55_1	TEX14_MOUSE	Q7M6U3	Q7M6U3 B2KGL0 Q3UT36 Q5NC10 Q5NC11 Q8CGK1 Q8CGK2 Q99MV8	788	798	20176808	anti tag coimmunoprecipitation; competition binding; gal4 vp16 complementation; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI002458	LIG	LIG_WW_1	JUNB_MOUSE	P09450	P09450 Q8C2G9	176	179	11828324	anti tag coimmunoprecipitation; coimmunoprecipitation; gst pull down; mutation analysis; ubiquitinase assay	true positive		Mus musculus
+ELMI002457	LIG	LIG_WW_1	JUN_MOUSE	P05627	P05627	167	170	16901904 11828324 15469925	coimmunoprecipitation; colocalization; mutation analysis; ubiquitinase assay	true positive		Mus musculus
+ELMI002430	LIG	LIG_PDZ_Class_2	5HT4R_MOUSE	P97288-3	P97288 O89003 O89004 Q3URB5 Q9R2A4	366	371	15466885	affinity chromatography technology; confocal microscopy; mutation analysis	true positive		Mus musculus
+ELMI002429	LIG	LIG_PDZ_Class_1	5HT4R_MOUSE	P97288-2	P97288 O89003 O89004 Q3URB5 Q9R2A4	382	387	15466885	affinity chromatography technology; anti tag coimmunoprecipitation; confocal microscopy; mutation analysis	true positive		Mus musculus
+ELMI001345	TRG	TRG_NLS_MonoExtN_4	JARD2_MOUSE	Q62315	Q62315 Q3TPU4 Q3UHS7 Q99LD1	106	111	12890668	colocalization; mutation analysis	true positive		Mus musculus
+ELMI001347	TRG	TRG_NLS_MonoCore_2	JARD2_MOUSE	Q62315	Q62315 Q3TPU4 Q3UHS7 Q99LD1	106	111	12890668	colocalization; mutation analysis	true positive		Mus musculus
+ELMI001346	TRG	TRG_NLS_MonoExtC_3	JARD2_MOUSE	Q62315	Q62315 Q3TPU4 Q3UHS7 Q99LD1	105	110	12890668	colocalization; mutation analysis	true positive		Mus musculus
+ELMI001570	LIG	LIG_PTB_Apo_2	LAYN_MOUSE	Q8C351	Q8C351 E9QQ23 Q3TMU7	374	381	18638481	isothermal titration calorimetry; nuclear magnetic resonance	true positive	2K00	Mus musculus
+ELMI001557	LIG	LIG_PTB_Apo_2	A4_MOUSE	P12023	P12023 P97487 P97942 Q99K32	756	763	18650440	isothermal titration calorimetry; mutation analysis; nuclear magnetic resonance	true positive	2ROZ	Mus musculus
+ELMI001549	LIG	LIG_PTB_Phospho_1	RET_MOUSE	P35546	P35546 Q8BQ34 Q9QXH9	1057	1063	14607833	surface plasmon resonance; x-ray crystallography	true positive	1UEF	Mus musculus
+ELMI001547	LIG	LIG_PTB_Phospho_1	MUSK_MOUSE	Q61006	Q61006 Q61005 Q61987 Q61988	547	553	20603078	protein kinase assay; x-ray crystallography	true positive	3ML4	Mus musculus
+ELMI002211	LIG	LIG_Integrin_isoDGR_1	FINC_MOUSE	P11276	P11276 Q61567 Q61568 Q61569 Q64233 Q80UI4	501	503	17591922 18480047	nuclear magnetic resonance; sequence based prediction; structure based prediction	true positive		Mus musculus
+ELMI002210	LIG	LIG_Integrin_isoDGR_1	FINC_MOUSE	P11276	P11276 Q61567 Q61568 Q61569 Q64233 Q80UI4	264	266	17591922 18480047	nuclear magnetic resonance; sequence based prediction	true positive		Mus musculus
+ELMI001485	DOC	DOC_SPAK_OSR1_1	A6BLY8_MOUSE	A6BLY8	A6BLY8	1346	1350	17267545	coimmunoprecipitation; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001484	DOC	DOC_SPAK_OSR1_1	A6BLY8_MOUSE	A6BLY8	A6BLY8	1336	1340	17267545	coimmunoprecipitation; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001483	DOC	DOC_SPAK_OSR1_1	S12A6_MOUSE	Q924N4	Q924N4 A2AGK1 Q924N3	14	18	12386165	gst pull down; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001482	DOC	DOC_SPAK_OSR1_1	S12A2_MOUSE	P55012	P55012 E9PYU3	133	137	17595523 14563843	mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001481	DOC	DOC_SPAK_OSR1_1	S12A2_MOUSE	P55012	P55012 E9PYU3	77	81	17595523 14563843	mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001480	DOC	DOC_SPAK_OSR1_1	S12A1_MOUSE	P55014	P55014 O35938 Q91W55 Q9Z1E0	16	20	12386165	alanine scanning; two hybrid	true positive		Mus musculus
+ELMI001479	DOC	DOC_SPAK_OSR1_1	WNK4_MOUSE	Q80UE6	Q80UE6 A2A4J7 Q4VAC1 Q80XB5 Q80XN2 Q8R0N0 Q8R340	996	1000	15930150	mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001529	LIG	LIG_HCF-1_HBM_1	THA11_MOUSE	Q9JJD0	Q9JJD0 Q3TCZ5 Q99KZ0	234	237	20581084	mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001528	LIG	LIG_HCF-1_HBM_1	EGR2_MOUSE	P08152	P08152	162	165	14532282	mutation analysis	true positive		Mus musculus
+ELMI001913	CLV	CLV_C14_Caspase3-7	IL16_MOUSE	O54824	O54824 O70236 Q3TEM4 Q5DTR5 Q8R0G5 Q9QZP6	1201	1205	10479680	cleavage reaction; western blot	true positive		Mus musculus
+ELMI001672	LIG	LIG_Actin_RPEL_3	MYCD_MOUSE	Q8VIM5	Q8VIM5 Q5SS65 Q8C3W6 Q8VIL4	108	127	18025109	alanine scanning; fluorescence polarization spectroscopy; green fluorescent protein tag; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001671	LIG	LIG_Actin_RPEL_3	MYCD_MOUSE	Q8VIM5	Q8VIM5 Q5SS65 Q8C3W6 Q8VIL4	64	83	18025109	alanine scanning; fluorescence polarization spectroscopy; green fluorescent protein tag; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001670	LIG	LIG_Actin_RPEL_3	MYCD_MOUSE	Q8VIM5	Q8VIM5 Q5SS65 Q8C3W6 Q8VIL4	20	39	18025109	alanine scanning; fluorescence polarization spectroscopy; green fluorescent protein tag; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001666	LIG	LIG_Actin_RPEL_3	MKL1_MOUSE	Q8K4J6	Q8K4J6 Q642U1	105	124	19008859 12732141 18025109 21673315 17588931	alanine scanning; circular dichroism; coimmunoprecipitation; colocalization; fluorescence polarization spectroscopy; green fluorescent protein tag; gst pull down; molecular sieving; mutation analysis; sequence based prediction; structure based prediction	true positive	2YJE 2YJF	Mus musculus
+ELMI001665	LIG	LIG_Actin_RPEL_3	MKL1_MOUSE	Q8K4J6	Q8K4J6 Q642U1	61	80	19008859 21673315 12732141 18025109 17588931 20818336	alanine scanning; circular dichroism; coimmunoprecipitation; colocalization; fluorescence polarization spectroscopy; green fluorescent protein tag; gst pull down; molecular sieving; mutation analysis; sequence based prediction; structure based prediction	true positive	2V52 2YJE 2YJF	Mus musculus
+ELMI001664	LIG	LIG_Actin_RPEL_3	MKL1_MOUSE	Q8K4J6	Q8K4J6 Q642U1	17	36	19008859 12732141 18025109 21673315 17588931	alanine scanning; circular dichroism; coimmunoprecipitation; colocalization; fluorescence polarization spectroscopy; green fluorescent protein tag; gst pull down; molecular sieving; mutation analysis; sequence based prediction; structure based prediction	true positive	2V51 2YJE 2YJF	Mus musculus
+ELMI001653	LIG	LIG_Actin_WH2_2	TYB4_MOUSE	P20065	P20065	9	27	1464307	cross linking study; mutation analysis	true positive		Mus musculus
+ELMI001940	DEG	DEG_SCF_SKP2-CKS1_1	CDN1C_MOUSE	P49919	P49919	338	345	12925736	alanine scanning; coimmunoprecipitation; knock out; ubiquitinase assay	true positive		Mus musculus
+ELMI001641	DOC	DOC_AGCK_PIF_3	KAPCA_MOUSE	P05132	P05132 Q9JID0	348	351	12372837 15299527	mutation analysis; protein kinase assay; x-ray crystallography	true positive	1ATP	Mus musculus
+ELMI001637	DOC	DOC_AGCK_PIF_2	KPCZ_MOUSE	Q02956	Q02956 A2AD76	575	580	10764742	competition binding; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001632	DOC	DOC_AGCK_PIF_1	SGK3_MOUSE	Q9ERE3	Q9ERE3 Q3UAY2	482	487	14604990	classical fluorescence spectroscopy; mutation analysis; protein kinase assay	true positive		Mus musculus
+ELMI001628	DOC	DOC_AGCK_PIF_1	KS6A3_MOUSE	P18654	P18654 B1AXN4 Q03140 Q8K3J8	382	387	10856237	coimmunoprecipitation; mutation analysis; protein kinase assay	true positive		Mus musculus
+ELMI002268	LIG	LIG_PDZ_Class_1	WWTR1_MOUSE	Q9EPK5	Q9EPK5 Q3UQ69 Q3UQM0 Q99KI4	390	395	11118213	anti tag coimmunoprecipitation; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI002263	LIG	LIG_WW_1	P63_MOUSE	O88898	O88898 O88897 O88899 O89097 Q8C826 Q9QWY9 Q9QWZ0	540	543	11278685	gst pull down	true positive		Mus musculus
+ELMI001895	LIG	LIG_CaM_IQ_9	INVS_MOUSE	O89019	O89019 O88849	915	934	11737147	far western blotting; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI001894	LIG	LIG_CaM_IQ_9	INVS_MOUSE	O89019	O89019 O88849	556	575	11737147	far western blotting; two hybrid	true positive		Mus musculus
+ELMI001891	LIG	LIG_CaM_IQ_9	RGRF2_MOUSE	P70392	P70392 Q3TYN3 Q9QX51	206	225	10733575	mutation analysis; western blot	true positive		Mus musculus
+ELMI001888	LIG	LIG_CaM_IQ_9	PC4L1_MOUSE	Q6W8Q3	Q6W8Q3 Q9CW92	46	65	17991744	sequence based prediction	true positive		Mus musculus
+ELMI001878	LIG	LIG_CaM_IQ_9	SCN8A_MOUSE	Q9WTU3	Q9WTU3 Q3TYI3 Q60828 Q60858 Q62449	1894	1913	12967988	gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001877	LIG	LIG_CaM_IQ_9	MYO1C_MOUSE	Q9WTI7	Q9WTI7 O08571 O08834 Q3TBQ4 Q3U231 Q5ND46 Q5ND48 Q5ND49 Q9ERB6 Q9QW54	758	777	17910470	fluorescence polarization spectroscopy; fluorescent resonance energy transfer	true positive		Mus musculus
+ELMI001876	LIG	LIG_CaM_IQ_9	MYO1C_MOUSE	Q9WTI7	Q9WTI7 O08571 O08834 Q3TBQ4 Q3U231 Q5ND46 Q5ND48 Q5ND49 Q9ERB6 Q9QW54	735	754	17910470	fluorescence polarization spectroscopy; fluorescent resonance energy transfer	true positive		Mus musculus
+ELMI002010	DOC	DOC_WW_Pin1_4	CRTC2_MOUSE	Q3U182	Q3U182 Q3TA52 Q8BH09	133	138	20675384	alanine scanning; coimmunoprecipitation; gst pull down	true positive		Mus musculus
+ELMI002025	DOC	DOC_WW_Pin1_4	B2L11_MOUSE	O54918	O54918 A2ALQ6 O54919 O54920	62	67	1650491	alanine scanning; coimmunoprecipitation; gst pull down; western blot	true positive		Mus musculus
+ELMI002024	DOC	DOC_WW_Pin1_4	GEPH_MOUSE	Q8BUV3	Q8BUV3 E9QKJ1	197	202	17347650	coimmunoprecipitation; gst pull down; mutation analysis; phosphatase assay	true positive		Mus musculus
+ELMI002023	DOC	DOC_WW_Pin1_4	GEPH_MOUSE	Q8BUV3	Q8BUV3 E9QKJ1	191	196	17347650	coimmunoprecipitation; gst pull down; mutation analysis; phosphatase assay	true positive		Mus musculus
+ELMI002015	DOC	DOC_WW_Pin1_4	MYB_MOUSE	P06876	P06876 E9QMG8 Q61929	525	530	18359295	coimmunoprecipitation; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI002007	DOC	DOC_WW_Pin1_4	MEF2C_MOUSE	Q8CFN5	Q8CFN5 Q8R0H1 Q9D7L0 Q9QW20	107	112	20801874	alanine scanning; coimmunoprecipitation; gst pull down; mutation analysis; phosphatase assay; western blot	true positive		Mus musculus
+ELMI002006	DOC	DOC_WW_Pin1_4	MEF2C_MOUSE	Q8CFN5	Q8CFN5 Q8R0H1 Q9D7L0 Q9QW20	95	100	20801874	alanine scanning; coimmunoprecipitation; gst pull down; mutation analysis; phosphatase assay; western blot	true positive		Mus musculus
+ELMI002003	DOC	DOC_WW_Pin1_4	STF1_MOUSE	P33242	P33242 Q812G5	200	205	19995909	coimmunoprecipitation; gal4 vp16 complementation; mutation analysis	true positive		Mus musculus
+ELMI001999	DOC	DOC_WW_Pin1_4	BTK_MOUSE	P35991	P35991 Q61365	112	117	16644721	alanine scanning; coimmunoprecipitation	true positive		Mus musculus
+ELMI001998	DOC	DOC_WW_Pin1_4	BTK_MOUSE	P35991	P35991 Q61365	18	23	16644721	alanine scanning; coimmunoprecipitation	true positive		Mus musculus
+ELMI001997	DOC	DOC_WW_Pin1_4	ARBK1_MOUSE	Q99MK8	Q99MK8 Q99LL8	667	672	20080565	alanine scanning; radiolabel	true positive		Mus musculus
+ELMI001983	DOC	DOC_WW_Pin1_4	CCNE1_MOUSE	Q61457	Q61457 Q05BA1 Q05BA6 Q05BB7	382	387	16223725	coimmunoprecipitation; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001978	DOC	DOC_WW_Pin1_4	CEP55_MOUSE	Q8BT07	Q8BT07 Q8C2J0 Q8K2I8 Q8R2Y4 Q9DBZ8	423	428	19638580	alanine scanning; gst pull down; phosphatase assay	true positive		Mus musculus
+ELMI001975	DOC	DOC_WW_Pin1_4	FOS_MOUSE	P01101	P01101	371	376	16123044	alanine scanning; gst pull down	true positive		Mus musculus
+ELMI001974	DOC	DOC_WW_Pin1_4	FOS_MOUSE	P01101	P01101	328	333	16123044	alanine scanning; gst pull down	true positive		Mus musculus
+ELMI001973	DOC	DOC_WW_Pin1_4	FOS_MOUSE	P01101	P01101	322	327	16123044	alanine scanning; gst pull down	true positive		Mus musculus
+ELMI001972	DOC	DOC_WW_Pin1_4	FOS_MOUSE	P01101	P01101	229	234	16123044	alanine scanning; gst pull down	true positive		Mus musculus
+ELMI001969	DOC	DOC_WW_Pin1_4	NONO_MOUSE	Q99K48	Q99K48 Q63887 Q9CYQ4 Q9DBP2	449	454	15701524	mutation analysis; solid phase assay	true positive		Mus musculus
+ELMI001968	DOC	DOC_WW_Pin1_4	NONO_MOUSE	Q99K48	Q99K48 Q63887 Q9CYQ4 Q9DBP2	427	432	15701524	mutation analysis; solid phase assay	true positive		Mus musculus
+ELMI001967	DOC	DOC_WW_Pin1_4	NONO_MOUSE	Q99K48	Q99K48 Q63887 Q9CYQ4 Q9DBP2	409	414	15701524	mutation analysis; solid phase assay	true positive		Mus musculus
+ELMI001963	DOC	DOC_WW_Pin1_4	CCND1_MOUSE	P25322	P25322	283	288	11805292	gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001953	DOC	DOC_WW_Pin1_4	NANOG_MOUSE	Q80Z64	Q80Z64 Q6SMR1 Q7TN85	62	67	20622153	alanine scanning; coimmunoprecipitation; gst pull down	true positive		Mus musculus
+ELMI001952	DOC	DOC_WW_Pin1_4	NANOG_MOUSE	Q80Z64	Q80Z64 Q6SMR1 Q7TN85	49	54	20622153	alanine scanning; coimmunoprecipitation; gst pull down	true positive		Mus musculus
+ELMI001591	LIG	LIG_PDZ_Class_2	CADH5_MOUSE	P55284	P55284 O35542	779	784	20047332	fluorescence polarization spectroscopy; mutation analysis; nuclear magnetic resonance	true positive	2KOH	Mus musculus
+ELMI001583	LIG	LIG_PDZ_Class_1	APC_MOUSE	Q61315	Q61315 Q62044	2840	2845	17161370	nuclear magnetic resonance	true positive	1VJ6	Mus musculus
+ELMI002200	LIG	LIG_TYR_ITAM	CD79B_MOUSE	P15530	P15530 Q4FJP4	192	209	1439759 15335855 8798606	coimmunoprecipitation; gst pull down; mutation analysis; protein kinase assay; western blot	true positive		Mus musculus
+ELMI002198	MOD	MOD_SUMO_for_1	PPARG_MOUSE	P37238	P37238	106	109	15123625	coimmunoprecipitation; gst pull down; mutation analysis; western blot	true positive		Mus musculus
+ELMI002193	LIG	LIG_SH2_STAT5	CTLA4_MOUSE	P09793	P09793 Q9QZZ7	201	204	8638161	coimmunoprecipitation; competition binding	true positive		Mus musculus
+ELMI002192	LIG	LIG_SH2_SRC	SRC8_MOUSE	Q60598	Q60598 Q3UGC2	421	424	17606906	colocalization; mutation analysis; surface plasmon resonance	true positive		Mus musculus
+ELMI002158	TRG	TRG_LysEnd_APsAcLL_1	GTR4_MOUSE	P14142	P14142 Q3TPK6 Q9JJN9	485	490	10973972	confocal microscopy; mutation analysis	true positive		Mus musculus
+ELMI002109	TRG	TRG_ENDOCYTIC_2	CTLA4_MOUSE	P09793	P09793 Q9QZZ7	201	204	9175836	coimmunoprecipitation; competition binding; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI002153	MOD	MOD_ProDKin_1	FAK1_MOUSE	P34152-3	P34152 O08578 Q5DTH7 Q8C513 Q8CFH7 Q8CHM2 Q8K2S0 Q9DAW3	907	913	19595712	inhibitor; mutation analysis	true positive		Mus musculus
+ELMI002149	MOD	MOD_PKA_2	CCG2_MOUSE	O88602	O88602	317	323	11805122	coimmunoprecipitation; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI002137	DOC	DOC_WW_Pin1_4	FAK1_MOUSE	P34152-3	P34152 O08578 Q5DTH7 Q8C513 Q8CFH7 Q8CHM2 Q8K2S0 Q9DAW3	907	912	19595712	classical fluorescence spectroscopy; gst pull down; mutation analysis; protein kinase assay; western blot	true positive		Mus musculus
+ELMI002129	LIG	LIG_SH2_SRC	FAK1_MOUSE	P34152-3	P34152 O08578 Q5DTH7 Q8C513 Q8CFH7 Q8CHM2 Q8K2S0 Q9DAW3	397	400	7739563	coimmunoprecipitation; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI002121	LIG	LIG_PDZ_Class_1	CCG2_MOUSE	O88602	O88602	318	323	11805122	mutation analysis; protein kinase assay; western blot	true positive		Mus musculus
+ELMI002118	LIG	LIG_HP1_1	TIF1B_MOUSE	Q62318	Q62318 P70391 Q8C283 Q99PN4	486	490	12154074	alanine scanning; coimmunoprecipitation; fluorescence technology; two hybrid	true positive		Mus musculus
+ELMI002108	MOD	MOD_SPalmitoyl_4	LCK_MOUSE	P06240	P06240 Q61794 Q61795 Q62320 Q91X65	1	7	8524258	fluorescence technology; mutation analysis	true positive		Mus musculus
+ELMI000116	LIG	LIG_RGD	VTNC_MOUSE	P29788	P29788 Q5SYG4 Q8VII4 Q91X32 Q9D080	64	66	1703206	coimmunoprecipitation; sequence based prediction	true positive		Mus musculus
+ELMI000304	LIG	LIG_AP2alpha_1	AP180_MOUSE	Q61548	Q61548 Q61547 Q8K0D4	640	644	10428863 12057195	coimmunoprecipitation; gst pull down; sequence based prediction; western blot	true positive		Mus musculus
+ELMI000303	LIG	LIG_AP2alpha_1	AP180_MOUSE	Q61548	Q61548 Q61547 Q8K0D4	562	566	12057195	sequence based prediction	true positive		Mus musculus
+ELMI000302	LIG	LIG_AP2alpha_1	AP180_MOUSE	Q61548	Q61548 Q61547 Q8K0D4	436	440	12057195	sequence based prediction	true positive		Mus musculus
+ELMI002087	TRG	TRG_ER_diArg_1	SIAT9_MOUSE	O88829	O88829 B2RRS1 Q3TMT6 Q3TY01 Q91YF2 Q91YF3 Q9CZ65 Q9QWF8 Q9QWF9	11	13	19420140	colocalization; confocal microscopy; mass detection of residue modification; mutation analysis; western blot	true positive		Mus musculus
+ELMI002035	DOC	DOC_WW_Pin1_4	CEP55_MOUSE	Q8BT07	Q8BT07 Q8C2J0 Q8K2I8 Q8R2Y4 Q9DBZ8	420	425	19638580	alanine scanning; gst pull down; phosphatase assay	true positive		Mus musculus
+ELMI002022	DOC	DOC_WW_Pin1_4	GEPH_MOUSE	Q8BUV3	Q8BUV3 E9QKJ1	185	190	17347650	coimmunoprecipitation; gst pull down; mutation analysis; phosphatase assay	true positive		Mus musculus
+ELMI001060	DOC	DOC_PP2B_PxIxI_1	NFAC2_MOUSE	Q60591	Q60591 A2APK2 A2APK3 A2AQC5 A2AQC6 A2AQC7 B5B2Q3 Q60984 Q60985 Q91Y65	110	116	9660947	mutation analysis	true positive		Mus musculus
+ELMI001021	DOC	DOC_MAPK_gen_1	ELK3_MOUSE	P41971	P41971 P97747 Q62346 Q8BWH1	292	301	9925641	mutation analysis	true positive		Mus musculus
+ELMI000918	TRG	TRG_NES_CRM1_1	PER1_MOUSE	O35973	O35973 B1ASX0	488	499	11591712	competition binding; mutation analysis	true positive		Mus musculus
+ELMI000747	LIG	LIG_WRPW_1	RUNX3_MOUSE	Q64131	Q64131 B2FDG4 Q99P92 Q9R199	406	409	10022895	not specified	true positive		Mus musculus
+ELMI001498	MOD	MOD_PKA_1	MEF2D_MOUSE	Q63943	Q63943 E9QKS9 Q63944	118	124	18299387	detection by mass spectrometry; gst pull down; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI001409	MOD	MOD_PKA_2	MEF2D_MOUSE	Q63943	Q63943 E9QKS9 Q63944	187	193	18299387	detection by mass spectrometry; gst pull down; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI000036	LIG	LIG_TPR	HSP72_MOUSE	P17156	P17156 Q99KD7	630	633	11877417 10593983	alanine scanning; mutation analysis	true positive		Mus musculus
+ELMI001112	LIG	LIG_SH2_SRC	LCP2_MOUSE	Q60787	Q60787 Q922M0	145	148	16436281	nuclear magnetic resonance	true positive	2EU0	Mus musculus
+ELMI000092	LIG	LIG_Dynein_DLC8_1	DC1I1_MOUSE	O88485	O88485 O88486 Q80W09	149	155	11148209	circular dichroism; competition binding; mutation analysis; nuclear magnetic resonance; pull down	true positive		Mus musculus
+ELMI001424	MOD	MOD_PKA_2	PKD1_MOUSE	O08852	O08852 E9QJR6	4156	4162	10364454	mutation analysis; protein kinase assay; western blot	true positive		Mus musculus
+ELMI000009	MOD	MOD_SUMO_for_1	RAGP1_MOUSE	P46061	P46061 Q60801 Q6NZB5	525	528	11853669	x-ray crystallography	true positive	1KPS	Mus musculus
+ELMI000488	TRG	TRG_ER_KDEL_1	PDIA1_MOUSE	P09103	P09103 Q922C8	506	509	2295602	mutation analysis	true positive		Mus musculus
+ELMI000505	TRG	TRG_LysEnd_GGAAcLL_2	GGA3_MOUSE	Q8BMI3	Q8BMI3 Q3V1Y0 Q80U71	384	391		sequence based prediction	true positive		Mus musculus
+ELMI001512	MOD	MOD_PKA_1	RGRF1_MOUSE	P27671	P27671	913	919	10601308	mass detection of residue modification; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001510	MOD	MOD_PKA_1	PTN5_MOUSE	P54830	P54830 Q64694 Q8CAN0	218	224	10908600	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001509	MOD	MOD_PKA_1	PTN5_MOUSE	P54830	P54830 Q64694 Q8CAN0	157	163	10908600	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001506	MOD	MOD_PKA_1	STK11_MOUSE	Q9WTK7	Q9WTK7 Q3TAE0	428	434	10642527	gst pull down; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001504	MOD	MOD_PKA_1	LASP1_MOUSE	Q61792	Q61792 Q62416	153	159	15465019	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001492	MOD	MOD_PKA_1	AIBP_MOUSE	Q8K4Z3	Q8K4Z3	40	46	18202122	detection by mass spectrometry; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001462	MOD	MOD_ProDKin_1	JDP2_MOUSE	P97875	P97875	145	151	11602244	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001459	MOD	MOD_ProDKin_1	MED1_MOUSE	Q925J9	Q925J9 A2A526 A2A528 O88323 Q3UHV0 Q6AXD5 Q8BW37 Q8BX19 Q8VDQ7 Q925K0	1439	1445	12356758	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001458	MOD	MOD_ProDKin_1	Q8K4N4_MOUSE	Q8K4N4	Q8K4N4	292	298	15963504	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001457	MOD	MOD_ProDKin_1	Q8K4N4_MOUSE	Q8K4N4	Q8K4N4	272	278	15963504	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001456	MOD	MOD_ProDKin_1	Q8K4N4_MOUSE	Q8K4N4	Q8K4N4	254	260	15963504	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001454	MOD	MOD_ProDKin_1	A6P3E3_MOUSE	A6P3E3	A6P3E3	733	739	16410316	mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI001451	MOD	MOD_ProDKin_1	PAPOA_MOUSE	Q61183	Q61183 Q61208 Q61209 Q8K4X2	534	540	18084034	detection by mass spectrometry; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI001449	MOD	MOD_ProDKin_1	LIMA1_MOUSE	Q9ERG0	Q9ERG0 Q8K2H0 Q9ERG1	689	695	17875928	detection by mass spectrometry; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI001448	MOD	MOD_ProDKin_1	LIMA1_MOUSE	Q9ERG0	Q9ERG0 Q8K2H0 Q9ERG1	599	605	17875928	classical fluorescence spectroscopy; detection by mass spectrometry; mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001447	MOD	MOD_ProDKin_1	LIMA1_MOUSE	Q9ERG0	Q9ERG0 Q8K2H0 Q9ERG1	357	363	17875928	classical fluorescence spectroscopy; detection by mass spectrometry; mutation analysis; protein kinase assay; protein kinase assay; western blot	true positive		Mus musculus
+ELMI001438	MOD	MOD_ProDKin_1	LCK_MOUSE	P06240	P06240 Q61794 Q61795 Q62320 Q91X65	56	62	8226850 11847223	mutation analysis; protein kinase assay; protein kinase assay	true positive		Mus musculus
+ELMI001300	TRG	TRG_Cilium_RVxP_2	Q80XL8_MOUSE	Q80XL8	Q80XL8	841	845	16782012	alanine scanning; coimmunoprecipitation; confocal microscopy	true positive		Mus musculus
+ELMI001292	LIG	LIG_SxIP_EBH_1	MELPH_MOUSE	Q91V27	Q91V27 Q3UFV7 Q99N53	493	506		sequence based prediction	true positive		Mus musculus
+ELMI001189	LIG	LIG_EH_1	EHD2_MOUSE	Q8BH64	Q8BH64 Q8BL28	125	129	17914359	isothermal titration calorimetry	true positive		Mus musculus
+ELMI001147	LIG	LIG_EH_1	EPN2_MOUSE	Q8CHU3	Q8CHU3 O70447 Q5NCM4 Q8BZ85	590	594	10336464 10064583	gst pull down; two hybrid	true positive		Mus musculus
+ELMI001146	LIG	LIG_EH_1	EPN2_MOUSE	Q8CHU3	Q8CHU3 O70447 Q5NCM4 Q8BZ85	507	511	10336464 10064583	gst pull down; two hybrid	true positive		Mus musculus
+ELMI001145	LIG	LIG_EH_1	EPN2_MOUSE	Q8CHU3	Q8CHU3 O70447 Q5NCM4 Q8BZ85	493	497	10336464 10064583	gst pull down; two hybrid	true positive		Mus musculus
+ELMI001141	LIG	LIG_EH_1	EPN1_MOUSE	Q80VP1	Q80VP1 O70446 Q6NX78	570	574	10064583	two hybrid	true positive		Mus musculus
+ELMI001140	LIG	LIG_EH_1	EPN1_MOUSE	Q80VP1	Q80VP1 O70446 Q6NX78	516	520	10064583	two hybrid	true positive		Mus musculus
+ELMI001139	LIG	LIG_EH_1	EPN1_MOUSE	Q80VP1	Q80VP1 O70446 Q6NX78	500	504	10064583	two hybrid	true positive		Mus musculus
+ELMI001124	LIG	LIG_EH_1	AGFG1_MOUSE	Q8K2K6	Q8K2K6 O70448 Q8BQL5 Q8CDK9	557	561	10471276	nuclear magnetic resonance	true positive		Mus musculus
+ELMI001115	LIG	LIG_SH3_3	SOS1_MOUSE	Q62245	Q62245 Q62244	1135	1141	9135122	nuclear magnetic resonance	true positive	2GBQ	Mus musculus
+ELMI001106	LIG	LIG_HP1_1	CAF1A_MOUSE	Q9QWF0	Q9QWF0 Q3TU22 Q544M2	222	226	14765118	nuclear magnetic resonance	true positive	1S4Z	Mus musculus
+ELMI001077	DOC	DOC_PP1_RVXF_1	DCX_MOUSE	O88809	O88809	52	58	16530423	mutation analysis	true positive		Mus musculus
+ELMI001061	DOC	DOC_PP2B_PxIxI_1	KCNKI_MOUSE	Q6VV64	Q6VV64 Q1LZJ5 Q1LZM8 Q3MI50 Q3MI51	209	215	16569637	gst pull down; mutation analysis	true positive		Mus musculus
+ELMI001038	LIG	LIG_RRM_PRI_1	RAVR1_MOUSE	Q9CW46	Q9CW46 Q5DTT6 Q811K0 Q8C3Z1 Q8CA14	499	506	16936729	gst pull down; mutation analysis; nuclear magnetic resonance	true positive		Mus musculus
+ELMI001037	LIG	LIG_RRM_PRI_1	RAVR1_MOUSE	Q9CW46	Q9CW46 Q5DTT6 Q811K0 Q8C3Z1 Q8CA14	400	407	16936729	gst pull down	true positive		Mus musculus
+ELMI001036	LIG	LIG_RRM_PRI_1	RAVR1_MOUSE	Q9CW46	Q9CW46 Q5DTT6 Q811K0 Q8C3Z1 Q8CA14	360	367	16936729	gst pull down	true positive		Mus musculus
+ELMI000996	LIG	LIG_AP2alpha_2	EPS15_MOUSE	P42567	P42567 Q8C431	629	631	12057195	x-ray crystallography	true positive	1KYU	Mus musculus
+ELMI000984	LIG	LIG_FHA_2	XRCC4_MOUSE	Q924T3	Q924T3 Q8BKC9 Q8BU02 Q9D6U6	229	235	15749016	x-ray crystallography	true positive		Mus musculus
+ELMI000952	MOD	MOD_PIKK_1	H2AX_MOUSE	P27661	P27661	137	143	11571274	coimmunoprecipitation	true positive		Mus musculus
+ELMI000950	MOD	MOD_PIKK_1	ABL1_MOUSE	P00520	P00520 P97896 Q61252 Q61253 Q61254 Q61255 Q61256 Q61257 Q61258 Q61259 Q61260 Q61261 Q6PCM5 Q8C1X4	443	449	9168116	coimmunoprecipitation; mass detection of residue modification; mutation analysis	true positive		Mus musculus
+ELMI000917	TRG	TRG_NES_CRM1_1	PER2_MOUSE	O54943	O54943 O54954	459	470	11591712	competition binding; mutation analysis	true positive		Mus musculus
+ELMI000866	MOD	MOD_SUMO_for_1	LEF1_MOUSE	P27782	P27782	24	27	11731474	not specified	true positive		Mus musculus
+ELMI000867	MOD	MOD_SUMO_for_1	LEF1_MOUSE	P27782	P27782	266	269	11731474	not specified	true positive		Mus musculus
+ELMI000907	LIG	LIG_Clathr_ClatBox_1	SMAP1_MOUSE	Q91VZ6	Q91VZ6 Q497I6 Q68EF3	192	196	15659652	alanine scanning; gst pull down; his pull down; mutation analysis	true positive		Mus musculus
+ELMI000809	LIG	LIG_SH2_GRB2	LAT_MOUSE	O54957	O54957	235	238	10811803	not specified	true positive		Mus musculus
+ELMI000808	LIG	LIG_SH2_GRB2	LAT_MOUSE	O54957	O54957	195	198	10811803	not specified	true positive		Mus musculus
+ELMI000807	LIG	LIG_SH2_GRB2	LAT_MOUSE	O54957	O54957	175	178	10811803	not specified	true positive		Mus musculus
+ELMI000781	LIG	LIG_NRBOX	NCOA6_MOUSE	Q9JL19	Q9JL19 Q9JLT9	1494	1500	12724417	not specified	true positive		Mus musculus
+ELMI000745	LIG	LIG_WRPW_1	RUNX2_MOUSE	Q08775	Q08775 O35183 Q08776 Q9JLN0 Q9QUQ6 Q9QY29 Q9R0U4 Q9Z2J7	604	607	10022895	not specified	true positive		Mus musculus
+ELMI000742	LIG	LIG_WRPW_1	RUNX1_MOUSE	Q03347	Q03347 O08598 Q62049 Q9ESB9 Q9ET65	448	451	10022895	not specified	true positive		Mus musculus
+ELMI000729	LIG	LIG_WRPW_1	Q9QUM5_MOUSE	Q9QUM5	Q9QUM5	289	299	10022895	not specified	true positive		Mus musculus
+ELMI000722	LIG	LIG_WRPW_1	Q9JHC5_MOUSE	Q9JHC5	Q9JHC5	197	200	10022895	not specified	true positive		Mus musculus
+ELMI000708	LIG	LIG_WRPW_1	Q9D0R0_MOUSE	Q9D0R0	Q9D0R0	289	299	10022895	not specified	true positive		Mus musculus
+ELMI000706	LIG	LIG_WRPW_1	HES7_MOUSE	Q8BKT2	Q8BKT2 A3KPD3 Q99JA6	221	225	10022895	not specified	true positive		Mus musculus
+ELMI000667	LIG	LIG_WRPW_1	HEY1_MOUSE	Q9WV93	Q9WV93	289	299	10022895	not specified	true positive		Mus musculus
+ELMI000663	LIG	LIG_WRPW_1	HES5_MOUSE	P70120	P70120 Q8BVI1	164	167	10022895	not specified	true positive		Mus musculus
+ELMI000661	LIG	LIG_WRPW_1	HES3_MOUSE	Q61657	Q61657 O09083 O09150 Q8BTI2	172	175	10022895	not specified	true positive		Mus musculus
+ELMI000659	LIG	LIG_WRPW_1	HES2_MOUSE	O54792	O54792	154	157	10022895	not specified	true positive		Mus musculus
+ELMI000656	LIG	LIG_WRPW_1	HES1_MOUSE	P35428	P35428	277	282	10022895	not specified	true positive		Mus musculus
+ELMI000513	TRG	TRG_LysEnd_APsAcLL_1	CD3D_MOUSE	P04235	P04235	138	143	1535555	mutation analysis; radiolabel	true positive		Mus musculus
+ELMI000512	TRG	TRG_LysEnd_APsAcLL_1	CD3G_MOUSE	P11942	P11942	149	154	9694892 1535555 15296492 9230070	coimmunoprecipitation; colocalization; fluorescence-activated cell sorting; mutation analysis; radiolabel	true positive		Mus musculus
+ELMI000506	TRG	TRG_LysEnd_GGAAcLL_2	GGA1_MOUSE	Q8R0H9	Q8R0H9 Q3U2N1	354	361		sequence based prediction	true positive		Mus musculus
+ELMI000455	LIG	LIG_Clathr_ClatBox_1	ARRB2_MOUSE	Q91YI4	Q91YI4 Q3TCM2 Q5F2D8 Q5F2E0	374	378	9169476	alanine scanning; gst pull down; mutation analysis	true positive		Mus musculus
+ELMI000446	LIG	LIG_SH2_STAT3	LEPR_MOUSE	P48356	P48356 O35686 O54986 Q61215 Q64309 Q9QWG3 Q9QWV5	1138	1141			unknown		Mus musculus
+ELMI000441	LIG	LIG_SH2_STAT3	CSF3R_MOUSE	P40223	P40223 A2A8Y3	728	731			unknown		Mus musculus
+ELMI000389	MOD	MOD_TYR_DYR	DYR1A_MOUSE	Q61214	Q61214	315	325	12522270	detection by mass spectrometry	true positive		Mus musculus
+ELMI000020	LIG	LIG_TRAF6	TNR11_MOUSE	O35305	O35305 Q8VCT7	371	379	12140561	mutation analysis	true positive		Mus musculus
+ELMI000019	LIG	LIG_TRAF6	TNR11_MOUSE	O35305	O35305 Q8VCT7	338	346	12140561	mutation analysis	true positive		Mus musculus
+ELMI000022	LIG	LIG_TRAF6	TNR11_MOUSE	O35305	O35305 Q8VCT7	445	453	12140561	mutation analysis	true positive		Mus musculus
+ELMI000017	LIG	LIG_TRAF6	TNR5_MOUSE	P27512	P27512 Q3TS33 Q3TSL2 Q3U799 Q3U7C9 Q3UBH3 Q542B1 Q8K2X6 Q99NE0 Q99NE1 Q99NE2 Q99NE3	235	243	12140561	sequence based prediction; structure based prediction	true positive		Mus musculus
+ELMI000030	LIG	LIG_TRAF6	IRAK1_MOUSE	Q62406	Q62406 B1AUW4 Q6Y3Z5 Q6Y3Z6	537	545	12140561	sequence based prediction	true positive		Mus musculus
+ELMI000031	LIG	LIG_TRAF6	IRAK1_MOUSE	Q62406	Q62406 B1AUW4 Q6Y3Z5 Q6Y3Z6	580	588	12140561	sequence based prediction	true positive		Mus musculus
+ELMI000032	LIG	LIG_TRAF6	IRAK1_MOUSE	Q62406	Q62406 B1AUW4 Q6Y3Z5 Q6Y3Z6	700	708	12140561	sequence based prediction	true positive		Mus musculus
+ELMI000018	LIG	LIG_TRAF6	TNR11_MOUSE	O35305	O35305 Q8VCT7	72	80		colocalization	false positive		Mus musculus
+ELMI000004	LIG	LIG_WW_1	WBP1_MOUSE	P97764	P97764 Q8WUP5 Q99J20	173	176	7644498	pull down	true positive		Mus musculus
+ELMI000211	LIG	LIG_CtBP_PxDLS_1	HDAC7_MOUSE	Q8C2B3	Q8C2B3 Q8C2C9 Q8C8X4 Q8CB80 Q8CDA3 Q9JL72	22	26	11022042	sequence based prediction	true positive		Mus musculus
+ELMI000210	LIG	LIG_CtBP_PxDLS_1	HDAC9_MOUSE	Q99N13	Q99N13 Q4QQN7 Q8R4Y6 Q9EPT2	23	27	11022042	coimmunoprecipitation	true positive		Mus musculus
+ELMI000209	DOC	DOC_CYCLIN_1	AKA12_MOUSE	Q9WTQ5	Q9WTQ5 Q80SS4 Q810D4 Q8BPK4 Q99MP1	501	504	10982843	mutation analysis	true positive		Mus musculus
+ELMI000205	LIG	LIG_SH3_3	WASF1_MOUSE	Q8R5H6	Q8R5H6 Q91W51 Q9ERQ9	319	325	10970852	gst pull down	true positive		Mus musculus
+ELMI000185	LIG	LIG_SH3_2	PTN22_MOUSE	P29352	P29352 Q7TMP9	614	619	11685249 9582365	mutation analysis; nuclear magnetic resonance	true positive	1JEG	Mus musculus
+ELMI000182	LIG	LIG_SH3_2	FAK1_MOUSE	P34152	P34152 O08578 Q5DTH7 Q8C513 Q8CFH7 Q8CHM2 Q8K2S0 Q9DAW3	750	755	7479864 8662921	gst pull down; mutation analysis; two hybrid	true positive		Mus musculus
+ELMI000147	TRG	TRG_LysEnd_APsAcLL_3	TYRO_MOUSE	P11344	P11344	512	518	9482728	molecular sieving; surface plasmon resonance	true positive		Mus musculus
+ELMI000144	LIG	LIG_TYR_ITIM	FCGR2_MOUSE	P08101	P08101 P08102 P12316 P97917 Q60938 Q60939 Q60940 Q61170 Q61558	307	312		sequence based prediction	true positive		Mus musculus
+ELMI000139	MOD	MOD_TYR_DYR	DYR1B_MOUSE	Q9Z188	Q9Z188 Q3UFR5 Q70UR5 Q9EPM2	267	277	9918863	sequence based prediction	true positive		Mus musculus
+ELMI000130	MOD	MOD_TYR_CSK	LYN_MOUSE	P25911	P25911 Q62127	504	512	8513497	knock out	true positive		Mus musculus
+ELMI000128	MOD	MOD_TYR_CSK	FYN_MOUSE	P39688	P39688 Q3TAT3 Q3U0T5 Q8K2A3	527	535	7685657	knock out	true positive		Mus musculus
+ELMI000106	LIG	LIG_RGD	FINC_MOUSE	P11276	P11276 Q61567 Q61568 Q61569 Q64233 Q80UI4	2181	2183			unknown		Mus musculus
+ELMI000105	LIG	LIG_RGD	FINC_MOUSE	P11276	P11276 Q61567 Q61568 Q61569 Q64233 Q80UI4	1614	1616	9533887	structure based prediction	true positive		Mus musculus
+ELMI000099	MOD	MOD_PKB_1	NR4A1_MOUSE	P12813	P12813	349	357		mutation analysis	true positive		Mus musculus
+ELMI000042	LIG	LIG_TPR	HS90A_MOUSE	P07901	P07901	730	733		sequence based prediction	true positive		Mus musculus

@@ -1,0 +1,816 @@
+Protein accession	Protein names	Succinylated Position	Score	Modified sequence	NAFLD/Contro Ratio	First repeat	Second repeat
+R9PXR4	Mitochondrial import receptor subunit TOM70	285	110.12	_SDEDK(su)DKEGEALEVK_	1.6	Yes	Yes
+B0K020	CDGSH iron-sulfur domain-containing protein 1	79	80.96	_K(su)FPFCDGAHIK_	not quantifieda	Yes	Yes
+B2GV33	Maoa protein (Fragment)	463	119.87	_K(su)DIWVEEPESK_	1.56	Yes	Yes
+B2RYI2	Signal recognition particle subunit SRP68	355	67.113	_EELK(su)PDQK_	1.54	Yes	Yes
+B2RYT7	Haloacid dehalogenase-like hydrolase domain containing 3	15	194.12	_LLTWDVK(su)DTLIK_	0.4	Yes	Yes
+B2RYW9	Fumarylacetoacetate hydrolase domain-containing protein 2	128	81.676	_VPK(su)NPIIFSK_	0.5	Yes	Yes
+B2RZD6	Ndufa4 protein	48	136.96	_K(su)NNPEPWNK_	1.99	Yes	Yes
+B5DFA3	Bucs1 protein	549	125.54	_K(su)VEFVSELPK_	1.57	Yes	Yes
+B5DFE0	Mpp6 protein	382	68.676	_EDEK(su)DGQAYK_	1.39	Yes	Yes
+B5LSW7	Cysteine sulfinate decarboxylase	47	105.65	_VCEWK(su)EPEELK_	1.6	Yes	Yes
+C0JPT7	Filamin alpha	626	106.38	_IECDDK(su)GDGSCDVR_	2.18	Yes	Yes
+D3Z8J1	Beta-ureidopropionase	264	79.489	_VGQEHYPNEFTSGDGK(su)K_	1.39	Yes	Yes
+D3Z8J1	Beta-ureidopropionase	334	106.6	_ELAEAVK(su)PNYSPNIVK_	1.24	Yes	Yes
+D3ZEF5	Protein LOC301861	362	87.667	_DK(su)DNFWMTR_	1.31	Yes	Yes
+D3ZEN5	Peroxiredoxin-5, mitochondrial (Fragment)	22	108.7	_K(su)VNLAELFK_	1.17	Yes	Yes
+D3ZFJ6	Lactamase, beta (Predicted)	287	132.08	_K(su)NDFEQGELYLK_	0.89	Yes	Yes
+D3ZL24	Calpastatin	333	90.385	_DK(su)DGKPLLPEPEETSK_	1.57	Yes	Yes
+D3ZLR6	Uncharacterized protein	232	81.879	_K(su)WDPFYSEILGR_	not quantified	Yes	Yes
+D3ZTP0	Protein Aldh1l2	57	140.82	_VVGVFTVPDK(su)DGK_	1.51	Yes	Yes
+D3ZTP0	Protein Aldh1l2	181	124.43	_SCDVK(su)PNDTVDSLYNR_	1.03	Yes	Yes
+D3ZTP0	Protein Aldh1l2	408	132.01	_K(su)FGDFIQK_	1.24	Yes	Yes
+D3ZTP0	Protein Aldh1l2	688	143.93	_QIMK(su)SCAVSNLK_	0.67	Yes	Yes
+D3ZTP0	Protein Aldh1l2	697	78.548	_K(su)VSLELGGK_	not quantified	Yes	Yes
+D3ZTP0	Protein Aldh1l2	760	93.429	_VVEEIK(su)K_	not quantified	Yes	Yes
+D3ZUP3	Very long-chain acyl-CoA synthetase	402	111.63	_YDVEK(su)DEPVR_	2.48	Yes	Yes
+D3ZUU8	Protein Sec14l4	58	80.294	_K(su)HVEFR_	0.86	Yes	Yes
+D3ZXY4	Protein Aldh8a1	44	79.92	_VPNSGK(su)EEIEVAVQAAR_	not quantified	Yes	Yes
+D3ZXY4	Protein Aldh8a1	249	96.229	_K(su)LSLELGGK_	1.25	Yes	Yes
+D3ZYU0	Enolase	74	131.83	_K(su)LNVVEQEK_	1.93	Yes	Yes
+D3ZZR9	Peptidyl-prolyl cis-trans isomerase	46	90.759	_K(su)GDVLHMHYTGK_	not quantified	Yes	Yes
+D4A4S3	Uncharacterized protein (Fragment)	398	174.39	_NQTAEK(su)EEFEHQQK_	1.94	Yes	Yes
+D4A5Q9	Glycine decarboxylase (Predicted), isoform CRA_a	651	95.531	_AMVDK(su)HK_	0.81	Yes	Yes
+D4A9L2	Protein Srsf1	165	89.805	_K(su)EDMTYAVR_	1.67	Yes	Yes
+D4A9T3	Protein Hmg1l1	30	81.327	_K(su)HPDASVNFSEFSK_	not quantified	Yes	Yes
+D4A9T3	Protein Hmg1l1	59	86.898	_GK(su)FEDMAK_	1.64	Yes	Yes
+D4A9T3	Protein Hmg1l1	90	88.495	_FK(su)DPNAPK_	1.66	Yes	Yes
+D4A9T3	Protein Hmg1l1	114	135.09	_IK(su)GEHPGLSIGDVAK_	1.54	Yes	Yes
+D4A9Z5	Phosphoglycerate kinase (Fragment)	271	185.26	_ITLPVDFVTADK(su)FDENAK_	1.26	Yes	Yes
+D4AB84	3-ketoacyl-CoA thiolase A, peroxisomal	234	180.88	_AEIVPVTTTVLDDK(su)GDR_	1.93	Yes	Yes
+D4ACE9	Alpha-aminoadipic semialdehyde synthase, mitochondrial	52	102.07	_GITK(su)LGYK_	0.77	Yes	Yes
+D4ACE9	Alpha-aminoadipic semialdehyde synthase, mitochondrial	274	82.59	_K(su)TDGVYDPVEYEK_	1.42	Yes	Yes
+F1LML3	3-oxo-5-beta-steroid 4-dehydrogenase	181	77.894	_QLEVILNK(su)PGLK_	not quantified	Yes	Yes
+F1LML3	3-oxo-5-beta-steroid 4-dehydrogenase	187	132.64	_YK(su)PVTNQVECHPYFTQTK_	1.69	Yes	Yes
+F1LML3	3-oxo-5-beta-steroid 4-dehydrogenase	279	142.39	_IK(su)ENFQIFDFSLTK_	1.69	Yes	Yes
+F1LML3	3-oxo-5-beta-steroid 4-dehydrogenase	295	156.81	_EEMK(su)DIEALNK_	2.33	Yes	Yes
+F1LP82	Ras-related protein Rab-2A (Fragment)	115	72.531	_K(su)EEGEAFAR_	not quantified	Yes	Yes
+F1LPM4	Amine oxidase [flavin-containing] B	193	78.888	_K(su)FIGGSGQVSER_	1.33	Yes	Yes
+F1LQ55	Non-specific lipid-transfer protein	6	76.927	_FMK(su)PGGENSR_	1.33	Yes	Yes
+F1LQ55	Non-specific lipid-transfer protein	423	145.6	_K(su)LEEEGEEFVK_	1.59	Yes	Yes
+F1LQ55	Non-specific lipid-transfer protein	471	91.313	_GSVLPDSDK(su)K_	1.39	Yes	Yes
+F1LR47	Uncharacterized protein	114	140.03	_IK(su)EHQESLDVTNPR_	1.25	Yes	Yes
+F1LRQ1	Aldehyde oxidase 1	693	141	_K(su)LECGNVDEAFK_	1.72	Yes	Yes
+F1LSR9	Alcohol dehydrogenase 1	20	159.14	_AAVLWEPHK(su)PFTIEDIEVAPPK_	2.03	Yes	Yes
+F1LSR9	Alcohol dehydrogenase 1	227	130.56	_IIAVDINK(su)DK_	1.44	Yes	Yes
+F1LSR9	Alcohol dehydrogenase 1	340	185.25	_K(su)FPLEPLITHVLPFEK_	2.31	Yes	Yes
+F1LU71	AU RNA binding protein/enoyl-coenzyme A hydratase (Predicted), isoform CRA_a	180	176.04	_VAASSAK(su)MGLVETK_	0.52	Yes	Yes
+F1M0Q4	Protein LOC679594 (Fragment)	43	162.37	_IQDK(su)EGIPPDQQR_	1.57	Yes	Yes
+F1M1Y1	Uncharacterized protein (Fragment)	157	164.97	_NLK(su)PIKPMQFLGDEETVR_	1.88	Yes	Yes
+F1M572	Kynurenine--oxoglutarate transaminase 3	393	114.72	_WMTK(su)NK_	not quantified	Yes	Yes
+F1M572	Kynurenine--oxoglutarate transaminase 3	425	124.25	_K(su)DSTLDAAEEIFR_	0.82	Yes	Yes
+F1M609	Acyl-coenzyme A oxidase	654	74.92	_HLK(su)PLQSK_	not quantified	Yes	Yes
+F1M6X5	Thioredoxin reductase 2, mitochondrial	155	77.282	_VK(su)YFNIK_	not quantified	Yes	Yes
+F1M7G5	Protein Sult2a2	96	67.334	_K(su)ICDFLGK_	not quantified	Yes	Yes
+F1M7G5	Protein Sult2a2	104	142.45	_K(su)LEPDELDLVLK_	1.05	Yes	Yes
+F7EPH4	Protein Ppa1	179	133.25	_LK(su)PGYLEATVDWFR_	1.27	Yes	Yes
+F7EUK4	Kininogen-1	65	139.86	_K(su)DGAETLYSFK_	3.15	Yes	Yes
+F8WFI0	Taste receptor type 1 member 2	92	115.57	_VAK(su)FCYADK_	0.46	Yes	Yes
+F8WFI0	Taste receptor type 1 member 2	118	102.52	_KEWDLK(su)PVADR_	1.05	Yes	Yes
+F8WFI0	Taste receptor type 1 member 2	129	97.2	_AQIFLK(su)AADMLSGPR_	0.86	Yes	Yes
+F8WFI0	Taste receptor type 1 member 2	401	93.374	_K(su)WLEHAR_	0.67	Yes	Yes
+F8WFI0	Taste receptor type 1 member 2	551	97.734	_ETHK(su)PLGDWR_	0.76	Yes	Yes
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	1352	127.79	_EQLEEEEEAK(su)R_	2.04	Yes	Yes
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	1445	80.905	_K(su)FDQLLAEEK_	not quantified	Yes	Yes
+G3V822	Carboxylesterase 1D	287	101.01	_QK(su)TEDELLETSLK_	1.18	Yes	Yes
+G3V9G4	ATP citrate lyase, isoform CRA_b	166	68.557	_LNAEDIK(su)R_	not quantified	Yes	Yes
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	137	105.65	_FGTK(su)FGLDLK_	0.58	Yes	Yes
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	234	139.47	_QTMQVDEHARPQTTLEQLQK(su)LPPVFK_	0.94	Yes	Yes
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	240	70.912	_LPPVFK(su)K_	not quantified	Yes	Yes
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	241	207.97	_K(su)EGTVTAGNASGMSDGAGVVIIASEDAVK_	0.67	Yes	Yes
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	270	111.61	_K(su)HNFTPLAR_	1.27	Yes	Yes
+I6L9G6	Protein Tardbp	84	164.2	_K(su)MDEADASSAVK_	1.58	Yes	Yes
+M0R407	Uncharacterized protein (Fragment)	135	110.38	_K(su)GDSSAEELK_	1.36	Yes	Yes
+M0R5K9	Protein LOC100912024 (Fragment)	46	86.344	_K(su)ADIDLTK_	1.74	Yes	Yes
+M0R9D0	Protein LOC100909983	234	86.772	_K(su)REPDDEGEEDD_	2.04	Yes	Yes
+M0R9T3	Uncharacterized protein	28	83.045	_K(su)VVNPLFEK_	1.28	Yes	Yes
+M0RAK2	Protein Isoc2a	178	79.875	_DAAHPQFK(su)EIQK_	not quantified	Yes	Yes
+M0RBJ7	Complement C3	1051	86.772	_K(su)GYTQQLAFK_	1.61	Yes	Yes
+M0RE17	Protein RGD1564378 (Fragment)	90	97.163	_K(su)LYDIDVAK_	1.47	Yes	Yes
+O09171	Betaine--homocysteine S-methyltransferase 1	349	108.57	_K(su)EYWQNLR_	1.23	Yes	Yes
+O35077	Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic	318	136.81	_GLVDK(su)FPLFTAVYK_	1.41	Yes	Yes
+O35244	Peroxiredoxin-6	106	116.24	_LPFPIIDDK(su)DR_	1.45	Yes	Yes
+O35244	Peroxiredoxin-6	122	137.61	_DLAILLGMLDPAEK(su)DEK_	1.57	Yes	Yes
+O35244	Peroxiredoxin-6	141	113.93	_VVFIFGPDK(su)K_	1.52	Yes	Yes
+O35244	Peroxiredoxin-6	183	141.13	_K(su)GESVMVLPTLPEEEAK_	1.42	Yes	Yes
+O35791	RhoA (Fragment)	130	110.08	_QEPVK(su)PEEGR_	1.75	Yes	Yes
+O35796	Complement component 1 Q subcomponent-binding protein, mitochondrial	89	164.64	_AFVEFLTDEIK(su)EEK_	not quantified	Yes	Yes
+O35796	Complement component 1 Q subcomponent-binding protein, mitochondrial	277	114.19	_SFVK(su)SQ_	0.91	Yes	Yes
+O35952	Hydroxyacylglutathione hydrolase, mitochondrial	301	77.058	_EK(su)DQFK_	0.59	Yes	Yes
+O55215	Ribosomal protein S2	15	105.03	_AEDK(su)EWIPVTK_	1.38	Yes	Yes
+O70199	UDP-glucose 6-dehydrogenase	434	117.86	_MLK(su)PAFIFDGR_	1.8	Yes	Yes
+O70351	3-hydroxyacyl-CoA dehydrogenase type-2	105	148.52	_K(su)NQVHTLEDFQR_	1.32	Yes	Yes
+O88989	Malate dehydrogenase, cytoplasmic	214	140.27	_EVGVYEALK(su)DDSWLK_	1.24	Yes	Yes
+P00502	Glutathione S-transferase alpha-1	4	94.402	_(ac)SGK(su)PVLHYFNAR_	1.02	Yes	Yes
+P00502	Glutathione S-transferase alpha-1	46	81.003	_K(su)DGNLMFDQVPMVEIDGMK_	1.01	Yes	Yes
+P00502	Glutathione S-transferase alpha-1	120	94.692	_EAK(su)TALAK_	1.05	Yes	Yes
+P00502	Glutathione S-transferase alpha-4	196	99.973	_K(su)FLQPGSQR_	1.31	Yes	Yes
+P00502	Glutathione S-transferase alpha-1	205	87.639	_K(su)LPVDAK_	1.27	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	59	99.973	_K(su)MNLGVGAYR_	1.01	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	73	101.42	_DDNGK(su)PYVLPSVR_	0.7	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	82	81.017	_K(su)AEAQIAGK_	not quantified	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	90	106.38	_KAEAQIAGK(su)NLDK_	0.77	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	94	158.52	_NLDK(su)EYLPIGGLADFCK_	1.49	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	185	172.3	_YYDPK(su)TCGFDFSGALEDISK_	0.51	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	296	139.88	_VGAFTVVCK(su)DAEEAK_	0.62	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	338	119.68	_K(su)QWLQEVK_	1	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	363	105.2	_TQLVSNLK(su)K_	not quantified	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	396	150.11	_LTK(su)EFSVYMTK_	0.56	Yes	Yes
+P00507	Aspartate aminotransferase, mitochondrial	404	113.07	_EFSVYMTK(su)DGR_	0.65	Yes	Yes
+P01946	Hemoglobin subunit alpha-1/2	12	93.096	_TNIK(su)NCWGK_	not quantified	Yes	Yes
+P01946	Hemoglobin subunit alpha-1/2	62	107.79	_K(su)VADALAK_	1.25	Yes	Yes
+P02692	Fatty acid-binding protein, liver	46	116.24	_GVSEIVHEGK(su)K_	0.91	Yes	Yes
+P02692	Fatty acid-binding protein, liver	84	108.35	_AVVK(su)MEGDNK_	0.84	Yes	Yes
+P02696	Retinol-binding protein 1	38	79.201	_IANLLK(su)PDK_	not quantified	Yes	Yes
+P02770	Serum albumin	36	135.1	_FK(su)DLGEQHFK_	1.53	Yes	Yes
+P02770	Serum albumin	305	97.273	_LQACCDK(su)PVLQK_	1.59	Yes	Yes
+P02770	Serum albumin	376	112.13	_K(su)YEATLEK_	1.92	Yes	Yes
+P02770	Serum albumin	543	166.77	_AETFTFHSDICTLPDK(su)EK_	1.34	Yes	Yes
+P02770	Serum albumin	588	216.16	_AADK(su)DNCFATEGPNLVAR_	1.99	Yes	Yes
+P04550	Parathymosin	92	94.122	_TAEEEDEADPK(su)R_	1.42	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	78	106.93	_ANVK(su)GYLGPEQLPDCLK_	0.71	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	157	145.72	_K(su)HGVYNPNK_	0.7	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	185	157.11	_ANTFVAELK(su)GLDPAR_	0.63	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	301	118.9	_GLEK(su)NLGIGK_	0.72	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	307	147.12	_NLGIGK(su)ITPFEEK_	0.63	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	314	130.27	_ITPFEEK(su)MIAEAIPELK_	not quantified	Yes	Yes
+P04636	Malate dehydrogenase, mitochondrial	329	76.064	_K(su)GEDFVK_	0.89	Yes	Yes
+P04642	L-lactate dehydrogenase A chain	224	166.6	_SLNPQLGTDADK(su)EQWK_	1.67	Yes	Yes
+P04762	Catalase	23	144.4	_APQK(su)PDVLTTGGGNPIGDK_	1.46	Yes	Yes
+P04762	Catalase	504	102.63	_VQALLDQYNSQK(su)PK_	1.04	Yes	Yes
+P04785	Protein disulfide-isomerase	202	164.92	_YQLDK(su)DGVVLFK_	2.04	Yes	Yes
+P04785	Protein disulfide-isomerase	311	98.044	_K(su)EECPAVR_	2.1	Yes	Yes
+P04785	Protein disulfide-isomerase	330	128.76	_YK(su)PESDELTAEK_	2.59	Yes	Yes
+P04785	Protein disulfide-isomerase	368	84.249	_IKPHLMSQELPEDWDK(su)QPVK_	1.78	Yes	Yes
+P04785	Protein disulfide-isomerase	417	150.05	_LGETYK(su)DHENIVIAK_	2.29	Yes	Yes
+P04785	Protein disulfide-isomerase	506	83.229	_AVK(su)DEL_	1.43	Yes	Yes
+P04904	Glutathione S-transferase alpha-3	4	89.231	_PGK(su)PVLHYFDGR_	1.31	Yes	Yes
+P04904	Glutathione S-transferase alpha-3	84	69.721	_YNLYGK(su)DMK_	0.98	Yes	Yes
+P05182	Cytochrome P450 2E1	159	107.09	_EAQFLVEELK(su)K_	0.85	Yes	Yes
+P05197	Elongation factor 2	152	99.815	_IK(su)PVLMMNK_	1.21	Yes	Yes
+P05197	Elongation factor 2	571	78.964	_DLEEDHACIPIK(su)K_	1.46	Yes	Yes
+P05369	Farnesyl pyrophosphate synthase	76	53.211	_K(su)QDAESLQR_	not quantified	Yes	Yes
+P06302	Prothymosin alpha	103	107.51	_VAEDDEDDDVETK(su)K_	1.77	Yes	Yes
+P06761	78 kDa glucose-regulated protein	125	101.15	_TK(su)PYIQVDIGGGQTK_	not quantified	Yes	Yes
+P06761	78 kDa glucose-regulated protein	340	109.29	_STMK(su)PVQK_	1.95	Yes	Yes
+P06761	78 kDa glucose-regulated protein	352	91.549	_VLEDSDLK(su)K_	2.52	Yes	Yes
+P06761	78 kDa glucose-regulated protein	353	170.79	_K(su)SDIDEIVLVGGSTR_	1.77	Yes	Yes
+P06761	78 kDa glucose-regulated protein	446	60.342	_NTVVPTK(su)K_	not quantified	Yes	Yes
+P06761	78 kDa glucose-regulated protein	651	153.68	_LYGSGGPPPTGEEDTSEK(su)DEL_	1.9	Yes	Yes
+P07153	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1	536	68.262	_LK(su)TEGSDLCDR_	1.42	Yes	Yes
+P07631	Probable alcohol sulfotransferase	248	73.499	_K(su)GTTGDWK_	1.32	Yes	Yes
+P07687	Epoxide hydrolase 1	61	219.52	_VETSDEEIK(su)DLHQR_	2.5	Yes	Yes
+P07687	Epoxide hydrolase 1	447	120.99	_K(su)FVSLAELQ_	1.34	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	55	116	_AQTAHIVLEDGTK(su)MK_	0.7	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	119	170.16	_DELGLNK(su)YMESDGIK_	0.4	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	176	90.827	_DK(su)GTMLGK_	0.91	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	210	91.069	_DVK(su)VFGK_	0.44	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	214	96.342	_VFGK(su)GNPTK_	0.42	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	287	203.59	_K(su)EPLFGISTGNIITGLAAGAK_	0.78	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	453	107.79	_AMK(su)EENVK_	0.51	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	527	121.9	_GVLK(su)EYGVK_	0.42	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	751	117.18	_IALGIPLPEIK(su)NVVSGK_	0.46	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	793	169.67	_IGSSMK(su)SVGEVMAIGR_	0.52	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	841	137.01	_K(su)ELSEPSSTR_	0.44	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	869	208.13	_ALENNMSLDEIVK(su)LTSIDK_	0.38	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	875	147.24	_LTSIDK(su)WFLYK_	0.33	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	889	133.32	_DILNMDK(su)TLK_	0.43	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	892	173.98	_TLK(su)GLNSESVTEETLR_	0.52	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	915	101.32	_EIGFSDK(su)QISK_	0.78	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	919	127.32	_QISK(su)CLGLTEAQTR_	0.65	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	935	78.192	_K(su)NIHPWVK_	0.84	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	1183	138.21	_EVEMDAVGK(su)EGR_	0.57	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	1356	110.38	_AMLSTGFK(su)IPQK_	0.52	Yes	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	1479	68.536	_LFAEAVQK(su)AR_	not quantified	Yes	Yes
+P07824	Arginase-1	6	96.673	_PK(su)PIEIIGAPFSK_	not quantified	Yes	Yes
+P07824	Arginase-1	41	127.83	_LK(su)ETEYNVR_	1.24	Yes	Yes
+P07824	Arginase-1	320	87.429	_EGNHKPETDYLK(su)PPK_	1.36	Yes	Yes
+P07895	Superoxide dismutase [Mn], mitochondrial	122	92.538	_GELLEAIK(su)R_	not quantified	Yes	Yes
+P07895	Superoxide dismutase [Mn], mitochondrial	130	120.06	_DFGSFEK(su)FK_	0.44	Yes	Yes
+P07896	Peroxisomal bifunctional enzyme	190	96.229	_IIDK(su)PIEPR_	2.26	Yes	Yes
+P07896	Peroxisomal bifunctional enzyme	534	131.25	_K(su)GQGLTGPSLPPGTPVR_	1.88	Yes	Yes
+P08010	Glutathione S-transferase Mu 2	31	201.06	_LFLEYTDTSYEDK(su)K_	1.09	Yes	Yes
+P08010	Glutathione S-transferase Mu 2	32	138.55	_K(su)YSMGDAPDYDR_	1.19	Yes	Yes
+P08010	Glutathione S-transferase Mu 2	83	117.93	_K(su)HNLCGETEEER_	1.03	Yes	Yes
+P08010	Glutathione S-transferase Mu 2	123	111.12	_K(su)KPEYLEGLPEK_	1.35	Yes	Yes
+P08010	Glutathione S-transferase Mu 2	206	117.7	_FLSK(su)PIFAK_	1.04	Yes	Yes
+P08683	Cytochrome P450 2C11	257	84.365	_EHQESLDK(su)DNPR_	0.31	Yes	Yes
+P09034	Argininosuccinate synthase	58	102.4	_K(su)VFIEDVSK_	0.76	Yes	Yes
+P09034	Argininosuccinate synthase	101	126.31	_K(su)QVEIAQR_	0.88	Yes	Yes
+P09034	Argininosuccinate synthase	121	65.374	_YVSHGATGK(su)GNDQVR_	1.05	Yes	Yes
+P09118	Uricase	23	101.39	_TGYGK(su)DMVK_	0.89	Yes	Yes
+P09118	Uricase	55	115.57	_K(su)DYLHGDNSDIIPTDTIK_	1.39	Yes	Yes
+P09811	Glycogen phosphorylase, liver form	438	81.92	_MSLIEEEGGK(su)R_	1.2	Yes	Yes
+P09811	Glycogen phosphorylase, liver form	479	81.918	_DFSELEPDK(su)FQNK_	1.05	Yes	Yes
+P09811	Glycogen phosphorylase, liver form	724	91.961	_VDDVAALDK(su)K_	1.13	Yes	Yes
+P09895	60S ribosomal protein L5	220	162.22	_YLMEEDEDAYK(su)K_	1.88	Yes	Yes
+P0C5H9	Mesencephalic astrocyte-derived neurotrophic factor	109	129.82	_K(su)DSQICELK_	1.89	Yes	Yes
+P10719	ATP synthase subunit beta, mitochondrial	124	119.87	_GQK(su)VLDSGAPIK_	0.78	Yes	Yes
+P10719	ATP synthase subunit beta, mitochondrial	133	157.85	_VLDSGAPIK(su)IPVGPETLGR_	0.7	Yes	Yes
+P10719	ATP synthase subunit beta, mitochondrial	485	102.52	_LVPLK(su)ETIK_	0.77	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	162	150.7	_YSTDVSVDEVK(su)ALASLMTYK_	0.47	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	187	106.04	_AGVK(su)INPK_	0.54	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	191	171.08	_INPK(su)NYTDNELEK_	0.7	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	212	175.77	_K(su)GFIGPGIDVPAPDMSTGER_	1.27	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	503	188.44	_ISGASEK(su)DIVHSGLAYTMER_	0.56	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	527	157.86	_TAMK(su)YNLGLDLR_	0.59	Yes	Yes
+P10860	Glutamate dehydrogenase 1, mitochondrial	545	120.92	_TAAYVNAIEK(su)VFK_	0.54	Yes	Yes
+P11240	Cytochrome c oxidase subunit 5A, mitochondrial	58	168.69	_WVTYFNK(su)PDIDAWELR_	1.42	Yes	Yes
+P11517	Hemoglobin subunit beta-2	67	131.06	_K(su)VINAFNDGLK_	1.34	Yes	Yes
+P11598	Protein disulfide-isomerase A3	494	148.7	_EATNPPIIQEEK(su)PK_	1.54	Yes	Yes
+P11711	Cytochrome P450 2A1	461	88.734	_FK(su)FPMK_	1.2	Yes	Yes
+P11951	Cytochrome c oxidase subunit 6C-2	9	70.089	_(ac)SSGALLPK(su)PQMR_	1.49	Yes	Yes
+P11951	Cytochrome c oxidase subunit 6C-2	61	74.475	_NYDSMK(su)DFEEMR_	1.21	Yes	Yes
+P12007	Isovaleryl-CoA dehydrogenase, mitochondrial	76	110.57	_AQEIDQSNDFK(su)NLR_	0.57	Yes	Yes
+P12346	Serotransferrin	61	90.614	_K(su)TSYQDCIK_	1.31	Yes	Yes
+P12346	Serotransferrin	122	123.75	_K(su)GTDFQLNQLQGK_	1.66	Yes	Yes
+P12346	Serotransferrin	252	136.39	_K(su)PVDQYEDCYLAR_	2	Yes	Yes
+P12346	Serotransferrin	632	166.9	_GDK(su)DCTGNFCLFR_	1.78	Yes	Yes
+P12749	60S ribosomal protein L26	51	94.82	_K(su)DDEVQVVR_	1.49	Yes	Yes
+P12749	60S ribosomal protein L26	136	108.47	_YK(su)EETIEK_	1.79	Yes	Yes
+P12785	Fatty acid synthase	528	122.39	_SDEALK(su)PLGVK_	1.56	Yes	Yes
+P13084	Nucleophosmin	27	94.692	_ADK(su)DYHFK_	not quantified	Yes	Yes
+P13084	Nucleophosmin	214	103.19	_DLK(su)PSTPR_	not quantified	Yes	Yes
+P13086	Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial	48	97.431	_K(su)NIYIDK_	not quantified	Yes	Yes
+P13635	Ceruloplasmin	247	202.92	_VDK(su)DNEDFQESNR_	3.18	Yes	Yes
+P14141	Carbonic anhydrase 3	153	102.05	_EK(su)GEFQILLDALDK_	0.45	Yes	Yes
+P14604	Enoyl-CoA hydratase, mitochondrial	101	156.2	_AFAAGADIK(su)EMQNR_	0.57	Yes	Yes
+P14604	Enoyl-CoA hydratase, mitochondrial	288	72.021	_ANFK(su)DH_	0.82	Yes	Yes
+P14669	Annexin A3	178	145.52	_K(su)DAQTLYDAGEK_	2.14	Yes	Yes
+P14942	Glutathione S-transferase alpha-4	205	62.357	_K(su)PPPDGHYVDVVR_	not quantified	Yes	Yes
+P15650	Long-chain specific acyl-CoA dehydrogenase, mitochondrial	66	118.5	_K(su)FFQEEVIPYHEEWEK_	1.21	Yes	Yes
+P15650	Long-chain specific acyl-CoA dehydrogenase, mitochondrial	95	134.88	_AGK(su)QGLLGINIAEK_	0.74	Yes	Yes
+P15999	ATP synthase subunit alpha, mitochondrial	126	87.184	_LIK(su)EGDIVK_	not quantified	Yes	Yes
+P15999	ATP synthase subunit alpha, mitochondrial	132	63.565	_EGDIVK(su)R_	0.59	Yes	Yes
+P15999	ATP synthase subunit alpha, mitochondrial	427	130.56	_AMK(su)QVAGTMK_	0.75	Yes	Yes
+P15999	ATP synthase subunit alpha, mitochondrial	498	102.4	_GYLDK(su)LEPSK_	0.82	Yes	Yes
+P15999	ATP synthase subunit alpha, mitochondrial	531	108.58	_SDGK(su)ISEQSDAK_	0.44	Yes	Yes
+P15999	ATP synthase subunit alpha, mitochondrial	539	98.902	_ISEQSDAK(su)LK_	0.59	Yes	Yes
+P16036	Phosphate carrier protein, mitochondrial	203	134.61	_MYK(su)EEGLNAFYK_	1.24	Yes	Yes
+P17764	Acetyl-CoA acetyltransferase, mitochondrial	210	116.78	_EEQDK(su)YAIGSYTR_	not quantified	Yes	Yes
+P17764	Acetyl-CoA acetyltransferase, mitochondrial	242	96.208	_GK(su)PDVVVK_	0.7	Yes	Yes
+P17764	Acetyl-CoA acetyltransferase, mitochondrial	265	85.676	_LK(su)TVFQK_	0.59	Yes	Yes
+P18163	Long-chain-fatty-acid--CoA ligase 1	114	108.58	_K(su)PNQPYEWISYK_	1.29	Yes	Yes
+P18163	Long-chain-fatty-acid--CoA ligase 1	522	74.301	_GYLK(su)DPAR_	1.13	Yes	Yes
+P18163	Long-chain-fatty-acid--CoA ligase 1	533	179.46	_TAEALDK(su)DGWLHTGDIGK_	1.28	Yes	Yes
+P18163	Long-chain-fatty-acid--CoA ligase 1	649	119.39	_NAGLK(su)PFEQVK_	1.21	Yes	Yes
+P18418	Calreticulin	62	111.86	_FYGDQEK(su)DK_	1.65	Yes	Yes
+P18418	Calreticulin	64	126.1	_DK(su)GLQTSQDAR_	1.28	Yes	Yes
+P18418	Calreticulin	209	135.15	_IK(su)DPDAAKPEDWDER_	2.15	Yes	Yes
+P18418	Calreticulin	238	128.07	_IDDPTDSKPEDWDK(su)PEHIPDPDAK_	2.5	Yes	Yes
+P18886	Carnitine O-palmitoyltransferase 2, mitochondrial	69	162.79	_YLNAQK(su)PLLDDSQFR_	1.68	Yes	Yes
+P18886	Carnitine O-palmitoyltransferase 2, mitochondrial	433	104.22	_EK(su)FDTTVK_	1.43	Yes	Yes
+P19112	Fructose-1,6-bisphosphatase 1	73	150.34	_K(su)LDILSNDLVINMLK_	1.53	Yes	Yes
+P19112	Fructose-1,6-bisphosphatase 1	206	149.35	_K(su)GNIYSINEGYAK_	1.7	Yes	Yes
+P19112	Fructose-1,6-bisphosphatase 1	232	141.54	_K(su)FPPDNSAPYGAR_	1.77	Yes	Yes
+P19225	Cytochrome P450 2C70	368	93.839	_K(su)TTQDVEFR_	2.53	Yes	Yes
+P19804	Nucleoside diphosphate kinase B	12	92.039	_TFIAIK(su)PDGVQR_	1.72	Yes	Yes
+P19804	Nucleoside diphosphate kinase B	135	138.91	_EIGLWFK(su)PEELIDYK_	2.43	Yes	Yes
+P21571	ATP synthase-coupling factor 6, mitochondrial	89	90.498	_GEMDK(su)FPTFNFEDPK_	not quantified	Yes	Yes
+P21913	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial	82	157.09	_IK(su)NEIDSTLTFR_	1.3	Yes	Yes
+P22734	Catechol O-methyltransferase	172	174.78	_K(su)YDVDTLDMVFLDHWK_	1.05	Yes	Yes
+P22734	Catechol O-methyltransferase	263	90.697	_AIYQGPSSPDK(su)S_	1.11	Yes	Yes
+P23457	3-alpha-hydroxysteroid dehydrogenase	185	132.79	_YK(su)PVCNQVECHLYLNQSK_	1.21	Yes	Yes
+P23457	3-alpha-hydroxysteroid dehydrogenase	225	117.02	_DK(su)TWVDQK_	0.95	Yes	Yes
+P24329	Thiosulfate sulfurtransferase	14	162.88	_ALVSTK(su)WLAESIR_	0.51	Yes	Yes
+P24329	Thiosulfate sulfurtransferase	237	187.37	_K(su)VDLSQPLIATCR_	1.37	Yes	Yes
+P24473	Glutathione S-transferase kappa 1	93	115.78	_DFFGEHVK(su)K_	0.69	Yes	Yes
+P24473	Glutathione S-transferase kappa 1	165	103.08	_ISTELVK(su)SK_	not quantified	Yes	Yes
+P28037	Cytosolic 10-formyltetrahydrofolate dehydrogenase	35	94.569	_EGHEVVGVFTIPDK(su)DGK_	not quantified	Yes	Yes
+P28037	Cytosolic 10-formyltetrahydrofolate dehydrogenase	757	60.064	_K(su)LVEYCQR_	not quantified	Yes	Yes
+P29147	D-beta-hydroxybutyrate dehydrogenase, mitochondrial	259	101.32	_K(su)MWDELPEVVR_	1.25	Yes	Yes
+P29314	40S ribosomal protein S9	66	136.38	_ELLTLDEK(su)DPR_	1.52	Yes	Yes
+P29314	40S ribosomal protein S9	180	101.3	_K(su)GQGGAGAGDDEEED_	1.88	Yes	Yes
+P29410	Adenylate kinase 2, mitochondrial	164	159.02	_EAMK(su)DDITGEPLIR_	1.61	Yes	Yes
+P30839	Fatty aldehyde dehydrogenase	39	112.82	_EK(su)DILAAIAADLSK_	1.25	Yes	Yes
+P31232	Transgelin	21	91.961	_K(su)YDEELEER_	2.19	Yes	Yes
+P31399	ATP synthase subunit d, mitochondrial	63	130.29	_ANVDK(su)PGLVDDFK_	1.29	Yes	Yes
+P31399	ATP synthase subunit d, mitochondrial	73	98.997	_NK(su)YNALK_	not quantified	Yes	Yes
+P31399	ATP synthase subunit d, mitochondrial	95	130.29	_YTALVDAEEK(su)EDVK_	1.28	Yes	Yes
+P31399	ATP synthase subunit d, mitochondrial	117	91.549	_EYEK(su)QLEK_	0.65	Yes	Yes
+P31399	ATP synthase subunit d, mitochondrial	149	133.04	_K(su)YPYWPHQPIENL_	0.86	Yes	Yes
+P32755	4-hydroxyphenylpyruvate dioxygenase	127	115.57	_EPWVEEDK(su)FGK_	1.3	Yes	Yes
+P35435	ATP synthase subunit gamma, mitochondrial	24	82.417	_SMK(su)MVAAAK_	not quantified	Yes	Yes
+P35435	ATP synthase subunit gamma, mitochondrial	58	80.245	_AEIK(su)GPEDK_	not quantified	Yes	Yes
+P35435	ATP synthase subunit gamma, mitochondrial	129	80.411	_THSDQFLVSFK(su)DVGR_	not quantified	Yes	Yes
+P35565	Calnexin	91	113.24	_K(su)DDTDDEIAK_	2.02	Yes	Yes
+P35565	Calnexin	402	132.14	_K(su)IPNPDFFEDLEPFR_	1.83	Yes	Yes
+P35565	Calnexin	537	104.88	_NK(su)GDEEEEEEKLEEK_	2.36	Yes	Yes
+P35565	Calnexin	546	91.355	_NKGDEEEEEEK(su)LEEK_	2.37	Yes	Yes
+P35704	Peroxiredoxin-2	92	129.46	_K(su)EGGLGPLNIPLLADVTK_	1.74	Yes	Yes
+P36510	UDP-glucuronosyltransferase 2A1	453	116.51	_IHHDQPVK(su)PLDR_	1.57	Yes	Yes
+P38659	Protein disulfide-isomerase A4	143	115.34	_K(su)GQAVDYDGSR_	1.71	Yes	Yes
+P38659	Protein disulfide-isomerase A4	482	184.6	_DLGLSESGEDVNAAILDESGK(su)K_	1.1	Yes	Yes
+P38918	Aflatoxin B1 aldehyde reductase member 3	83	91.265	_TLK(su)PADVR_	2.82	Yes	Yes
+P45592	Cofilin-1	78	89.08	_MLPDK(su)DCR_	1.66	Yes	Yes
+P46418	Glutathione S-transferase alpha-5	205	67.897	_K(su)PFDDEK_	2.33	Yes	Yes
+P48679	Prelamin-A/C	32	114.01	_LQEK(su)EDLQELNDR_	1.78	Yes	Yes
+P48679	Prelamin-A/C	123	58.595	_K(su)EGDLLAAQAR_	not quantified	Yes	Yes
+P48721	Stress-70 protein, mitochondrial	288	111.01	_HIVK(su)EFK_	1.01	Yes	Yes
+P48721	Stress-70 protein, mitochondrial	600	108.34	_MEEFK(su)DQLPADECNK_	1.47	Yes	Yes
+P48721	Stress-70 protein, mitochondrial	612	72.928	_LK(su)EEISK_	1.79	Yes	Yes
+P48721	Stress-70 protein, mitochondrial	625	105.65	_K(su)DSETGENIR_	1.68	Yes	Yes
+P49242	40S ribosomal protein S3a	28	80.688	_K(su)DWYDVK_	1.7	Yes	Yes
+P50116	Protein S100-A9	26	80.706	_K(su)YGHPDTLNK_	not quantified	Yes	Yes
+P50137	Transketolase	538	145.6	_VLDPFTIK(su)PLDK_	1.47	Yes	Yes
+P50137	Transketolase	609	156.17	_MFGIDK(su)DAIVQAVK_	0.98	Yes	Yes
+P50169	Retinol dehydrogenase 3	225	139.74	_K(su)LWDQTTEEVK_	1.19	Yes	Yes
+P52759	Ribonuclease UK114	60	133.32	_QALK(su)NLGEILK_	0.77	Yes	Yes
+P52873	Pyruvate carboxylase, mitochondrial	35	89.355	_LEYK(su)PIK_	not quantified	Yes	Yes
+P56522	NADPH:adrenodoxin oxidoreductase, mitochondrial	290	78.191	_TATEK(su)PGVEEAAR_	1.38	Yes	Yes
+P56571	ES1 protein homolog, mitochondrial	231	125.54	_GVTEAHVDQK(su)NK_	0.65	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	48	150.9	_VEK(su)PVVEMDGDEMTR_	1.77	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	155	63.046	_EPIICK(su)NIPR_	not quantified	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	199	116.51	_LVFTPK(su)DGSGAK_	0.83	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	243	97.734	_K(su)WPLYLSTK_	not quantified	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	263	184.71	_FK(su)DIFQEIFDK_	1.85	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	280	99.442	_TDFDK(su)NK_	0.63	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	282	109.11	_NK(su)IWYEHR_	0.96	Yes	Yes
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	384	124.38	_GK(su)LDGNQDLIR_	1.26	Yes	Yes
+P60901	Proteasome subunit alpha type-6	45	105.19	_GK(su)DCAVIVTQK_	1.58	Yes	Yes
+P61928	60S ribosomal protein L37	46	69.812	_K(su)YNWSAK_	not quantified	Yes	Yes
+P62161	Calmodulin	22	223.65	_EAFSLFDK(su)DGDGTITTK_	1.56	Yes	Yes
+P62161	Calmodulin	78	182.37	_MK(su)DTDSEEEIR_	1.67	Yes	Yes
+P62193	26S protease regulatory subunit 4	24	77.744	_K(su)YEPPVPTR_	1.55	Yes	Yes
+P62193	26S protease regulatory subunit 4	86	116.19	_NQEQMK(su)PLEEK_	1.94	Yes	Yes
+P62268	40S ribosomal protein S23	108	75.088	_K(su)GHAVGDIPGVR_	1.33	Yes	Yes
+P62630	Elongation factor 1-alpha 1	273	149.07	_VETGVLK(su)PGMVVTFAPVNVTTEVK_	1.79	Yes	Yes
+P62630	Elongation factor 1-alpha 1	386	95.741	_K(su)LEDGPK_	1.47	Yes	Yes
+P62804	Histone H4	32	136.24	_DNIQGITK(su)PAIR_	1.64	Yes	Yes
+P62870	Transcription elongation factor B polypeptide 2	46	134.88	_LYK(su)DDQLLDDGK_	1.72	Yes	Yes
+P62898	Cytochrome c, somatic	40	136.43	_K(su)TGQAAGFSYTDANK_	1.24	Yes	Yes
+P62909	40S ribosomal protein S3	10	107.06	_K(su)FVADGIFK_	not quantified	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	125	111.63	_SIAK(su)EGFEK_	0.88	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	130	93.096	_EGFEK(su)ISK_	0.83	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	455	126.71	_CIPALDSLK(su)PANEDQK_	1.25	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	473	123.95	_ALK(su)IPAMTIAK_	0.76	Yes	Yes
+P70580	Membrane-associated progesterone receptor component 1	105	155.56	_K(su)FYGPEGPYGVFAGR_	1.56	Yes	Yes
+P80254	D-dopachrome decarboxylase	33	193.77	_LCAATATILDK(su)PEDR_	1.36	Yes	Yes
+P80431	Cytochrome c oxidase subunit 7B, mitochondrial	29	99.568	_K(su)TPTFHDK_	1.37	Yes	Yes
+P83883	60S ribosomal protein L36a	30	99.5	_GK(su)DSLYAQGK_	1.49	Yes	Yes
+P85834	Elongation factor Tu, mitochondrial	91	164.56	_K(su)YEEIDNAPEER_	1.7	Yes	Yes
+P97519	Hydroxymethylglutaryl-CoA lyase, mitochondrial	137	119.54	_K(su)NVNCSIEESFQR_	1.65	Yes	Yes
+P97532	3-mercaptopyruvate sulfurtransferase	40	109.44	_LLDASWYLPK(su)LGR_	not quantified	Yes	Yes
+P97601	Chaperonin 10	8	88.364	_K(su)FLPLFDR_	0.9	Yes	Yes
+P97601	Chaperonin 10	56	121.45	_GK(su)GGEIQPVSVK_	0.82	Yes	Yes
+P97601	Chaperonin 10	86	177.64	_VVLDDK(su)DYFLFR_	1.39	Yes	Yes
+P97852	Peroxisomal multifunctional enzyme type 2	414	134.81	_VLHGEQYLELYK(su)PLPR_	1.12	Yes	Yes
+Q00715	Histone H2B type 1	35	113.24	_K(su)ESYSVYVYK_	1.13	Yes	Yes
+Q02253	Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial	47	147.26	_LFIDGK(su)FVESK_	0.44	Yes	Yes
+Q02253	Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial	52	118.71	_FVESK(su)SDK_	0.5	Yes	Yes
+Q02253	Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial	331	78.488	_K(su)WLPELVER_	0.66	Yes	Yes
+Q06647	ATP synthase subunit O, mitochondrial	60	128.57	_RLDQVEK(su)ELLR_	1.03	Yes	Yes
+Q06647	ATP synthase subunit O, mitochondrial	70	93.096	_VGQLLK(su)DPK_	0.91	Yes	Yes
+Q09073	ADP/ATP translocase 2	23	155.53	_DFLAGGVAAAISK(su)TAVAPIER_	0.88	Yes	Yes
+Q09073	ADP/ATP translocase 2	155	125.53	_EFK(su)GLGDCLVK_	0.58	Yes	Yes
+Q09073	ADP/ATP translocase 2	245	161.26	_K(su)GTDIMYTGTLDCWR_	1.19	Yes	Yes
+Q09073	ADP/ATP translocase 2	272	84.892	_AFFK(su)GAWSNVLR_	not quantified	Yes	Yes
+Q0QEL8	Citrate synthase (Fragment)	99	117.2	_EVGK(su)DVSDEK_	0.69	Yes	Yes
+Q0QEL8	Citrate synthase (Fragment)	153	86.772	_DPMFK(su)LVAQLYK_	0.58	Yes	Yes
+Q0QER8	Isocitrate dehydrogenase [NADP] (Fragment)	39	77.282	_K(su)YNVGVK_	not quantified	Yes	Yes
+Q0QER8	Isocitrate dehydrogenase [NADP] (Fragment)	99	101.61	_LVTGWVK(su)PIIIGR_	1.25	Yes	Yes
+Q0QER8	Isocitrate dehydrogenase [NADP] (Fragment)	197	132.31	_FK(su)DIFQEIYDK_	1.24	Yes	Yes
+Q10758	Keratin, type II cytoskeletal 8	304	128.68	_SK(su)TEISEMNR_	1.07	Yes	Yes
+Q1HCL7	NAD kinase 2, mitochondrial	159	123.68	_LK(su)PVIGVNTDPER_	1.38	Yes	Yes
+Q3B7D0	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	173	112.82	_K(su)EGGGGITCVLQDGR_	1.64	Yes	Yes
+Q3B8N9	Biphenyl hydrolase-like (Serine hydrolase)	119	67.997	_DAK(su)DAVDLMK_	not quantified	Yes	Yes
+Q3B8N9	Biphenyl hydrolase-like (Serine hydrolase)	126	124.12	_DAVDLMK(su)ALQFK_	0.47	Yes	Yes
+Q3MID6	Calumenin	84	131.66	_IDTDK(su)DGFVTK_	1.94	Yes	Yes
+Q3MID6	Calumenin	165	114.31	_MADK(su)DGDLIATK_	1.86	Yes	Yes
+Q3MID6	Calumenin	281	155.88	_HLVYESDQDK(su)DGK_	2.47	Yes	Yes
+Q3MIE4	Synaptic vesicle membrane protein VAT-1 homolog	288	65.224	_GYHLLK(su)PMGK_	not quantified	Yes	Yes
+Q499N5	Acyl-CoA synthetase family member 2, mitochondrial	179	133.23	_GIVFPK(su)QFK_	0.7	Yes	Yes
+Q499N5	Acyl-CoA synthetase family member 2, mitochondrial	182	151.99	_QFK(su)TQQYYNILK_	0.63	Yes	Yes
+Q499Q4	Phosphoglucomutase 1	16	113.11	_TQAYPDQK(su)PGTSGLR_	1.5	Yes	Yes
+Q4KLP0	Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial	188	74.439	_FATVK(su)R_	0.25	Yes	Yes
+Q4KM49	Tyrosine--tRNA ligase, cytoplasmic	482	100.93	_GQPDEELK(su)PK_	2.73	Yes	Yes
+Q4KM60	Ribosomal protein (Fragment)	95	73.299	_K(su)YDAFLASESLIK_	1.18	Yes	Yes
+Q4KM73	UMP-CMP kinase	43	176.29	_K(su)NPDSQYGELIEK_	1.63	Yes	Yes
+Q4QQW7	Cytochrome P450, family 2, subfamily c, polypeptide 7	247	122.75	_K(su)IEEHQESLDVTNPR_	not quantified	Yes	Yes
+Q4QRB8	Asl protein	288	81.002	_K(su)NPDSLELIR_	1.51	Yes	Yes
+Q4V8I9	Protein Ugp2	53	72.607	_K(su)DLDGFR_	1.39	Yes	Yes
+Q5BJZ3	Nicotinamide nucleotide transhydrogenase	70	61.765	_EIFQNEK(su)R_	not quantified	Yes	Yes
+Q5BJZ3	Nicotinamide nucleotide transhydrogenase	171	114.21	_K(su)TTVLAMDQVPR_	1.37	Yes	Yes
+Q5BJZ3	Nicotinamide nucleotide transhydrogenase	403	111.22	_AISPDK(su)DNFHFEVK_	1.3	Yes	Yes
+Q5EB55	Gbe1 protein (Fragment)	388	72.152	_K(su)GNNESYHYAR_	1.23	Yes	Yes
+Q5EBA4	Nipsnap1 protein (Fragment)	55	108.56	_K(su)DAHSTLLSK_	1.54	Yes	Yes
+Q5EBA4	Nipsnap1 protein (Fragment)	190	104.76	_TYK(su)LKPGTMIEWGNNWAR_	0.54	Yes	Yes
+Q5EBA9	Suclg2 protein (Fragment)	181	84.31	_NQAADQIK(su)K_	not quantified	Yes	Yes
+Q5FVG4	Protein LOC100911440	83	91.202	_AIK(su)LAANDFFR_	not quantified	Yes	Yes
+Q5FVQ4	Malectin	68	68.016	_K(su)DPLEGR_	not quantified	Yes	Yes
+Q5I0N5	Serine--pyruvate aminotransferase (Fragment)	314	85.533	_FFVK(su)DPEIR_	1.28	Yes	Yes
+Q5I0P9	Cytochrome P450 2D10	414	94.767	_DETVWEK(su)PLR_	1.21	Yes	Yes
+Q5M897	Otc protein	88	63.694	_SLGMIFEK(su)R_	0.51	Yes	Yes
+Q5M897	Otc protein	144	136.33	_VYK(su)QSDLDILAK_	0.49	Yes	Yes
+Q5M897	Otc protein	231	140.77	_GYEPDPNIVK(su)LAEQYAK_	0.47	Yes	Yes
+Q5M897	Otc protein	307	157.74	_K(su)PEEVDDEVFYSPR_	1.38	Yes	Yes
+Q5M964	Fumarate hydratase 1	77	121.32	_STMNFK(su)IGGATER_	0.76	Yes	Yes
+Q5M964	Fumarate hydratase 1	91	136.38	_MPIPVIK(su)AFGILK_	0.52	Yes	Yes
+Q5M9H2	Acyl-Coenzyme A dehydrogenase, very long chain	276	100.38	_DAATGAVK(su)EK_	not quantified	Yes	Yes
+Q5PQT3	Glycine N-acyltransferase	16	211.57	_IVPLQGAQMLQMLEK(su)SLK_	0.36	Yes	Yes
+Q5PQT3	Glycine N-acyltransferase	20	96.342	_K(su)YLPESLK_	0.63	Yes	Yes
+Q5RKG9	Eukaryotic translation initiation factor 4B	177	159.34	_VDVADQAQDK(su)DRDDR_	1.88	Yes	Yes
+Q5XFX0	Transgelin-2	40	77.062	_K(su)GVSQPQPGR_	1.74	Yes	Yes
+Q5XI73	Rho GDP-dissociation inhibitor 1	43	220.42	_SIQEIQELDK(su)DDESLR_	1.58	Yes	Yes
+Q5XIE6	3-hydroxyisobutyryl-CoA hydrolase, mitochondrial	352	142.83	_AVLIDK(su)DQTPK_	not quantified	Yes	Yes
+Q60587	Trifunctional enzyme subunit beta, mitochondrial	244	96.626	_MEQDK(su)YALR_	0.86	Yes	Yes
+Q60587	Trifunctional enzyme subunit beta, mitochondrial	273	69.721	_VPGK(su)DTVSK_	0.7	Yes	Yes
+Q60587	Trifunctional enzyme subunit beta, mitochondrial	294	101.28	_LK(su)PAFIK_	not quantified	Yes	Yes
+Q60587	Trifunctional enzyme subunit beta, mitochondrial	333	122.52	_ALAMGYK(su)PK_	1.22	Yes	Yes
+Q62651	Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial	230	164.93	_K(su)MMADEALDSGLVSR_	0.8	Yes	Yes
+Q62669	Protein Hbb-b1	67	78.744	_K(su)VINAFDDGLK_	1.39	Yes	Yes
+Q62744	Alpha actinin	198	108.75	_K(su)DDPVTNLNNAFEVAEK_	not quantified	Yes	Yes
+Q62826	Heterogeneous nuclear ribonucleoprotein M	144	114.76	_VK(su)EDPDGEHAR_	0.9	Yes	Yes
+Q62826	Heterogeneous nuclear ribonucleoprotein M	199	98.105	_ADILEDK(su)DGK_	1.58	Yes	Yes
+Q63041	Alpha-1-macroglobulin	1422	76.165	_K(su)LQDQSNIQR_	1.53	Yes	Yes
+Q63041	Alpha-1-macroglobulin	1467	78.516	_NLK(su)PAPVK_	1.26	Yes	Yes
+Q63060	Glycerol kinase	163	69.864	_K(su)VQEAVEENR_	not quantified	Yes	Yes
+Q63081	Protein disulfide-isomerase A6	110	65.241	_NK(su)PEDYQGGR_	1.86	Yes	Yes
+Q63081	Protein disulfide-isomerase A6	160	103.88	_K(su)DVVELTDDTFDK_	1.23	Yes	Yes
+Q63144	Outer membrane cytochrome b(5) (Fragment)	59	56.746	_QYYIGDVHPNDLK(su)PK_	not quantified	Yes	Yes
+Q63150	Dihydropyrimidinase	339	94.767	_ALGK(su)DDFTK_	1.1	Yes	Yes
+Q63150	Dihydropyrimidinase	501	70.389	_GEVITLK(su)PR_	not quantified	Yes	Yes
+Q63270	Cytoplasmic aconitate hydratase	602	61.78	_K(su)YVIPGMFK_	not quantified	Yes	Yes
+Q63276	Bile acid-CoA:amino acid N-acyltransferase	305	148.62	_TFEETADK(su)DSK_	1.96	Yes	Yes
+Q63362	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5	40	78.113	_HFPK(su)HAAYR_	0.54	Yes	Yes
+Q63362	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5	46	93.348	_K(su)YTEQITSEK_	1.4	Yes	Yes
+Q63570	26S protease regulatory subunit 6B	409	89.805	_K(su)DEQEHEFYK_	1.67	Yes	Yes
+Q63584	Transmembrane emp24 domain-containing protein 10	145	87.789	_LK(su)PLEVELR_	1.44	Yes	Yes
+Q63716	Peroxiredoxin-1	93	89.358	_K(su)QGGLGPMNIPLVSDPK_	not quantified	Yes	Yes
+Q63716	Peroxiredoxin-1	185	126.02	_HGEVCPAGWKPGSDTIK(su)PDVNK_	1.96	Yes	Yes
+Q64057	Alpha-aminoadipic semialdehyde dehydrogenase	86	145.7	_QASMK(su)DYEETIGK_	0.43	Yes	Yes
+Q64057	Alpha-aminoadipic semialdehyde dehydrogenase	94	127.87	_DYEETIGK(su)AK_	0.47	Yes	Yes
+Q64057	Alpha-aminoadipic semialdehyde dehydrogenase	97	72.891	_K(su)AWNIWADIPAPK_	not quantified	Yes	Yes
+Q64057	Alpha-aminoadipic semialdehyde dehydrogenase	390	111.79	_K(su)EGGTVVYGGK_	0.86	Yes	Yes
+Q64057	Alpha-aminoadipic semialdehyde dehydrogenase	439	166.9	_FK(su)NEEEVFEWNNEVK_	1.09	Yes	Yes
+Q64119	Myosin light polypeptide 6	81	161.8	_NK(su)DQGTYEDYVEGLR_	1.78	Yes	Yes
+Q64232	Very-long-chain enoyl-CoA reductase	60	127.56	_SLK(su)DEDVLQK_	1.42	Yes	Yes
+Q642E2	Protein LOC100362069	122	90.15	_SQK(su)PVVVK_	1.34	Yes	Yes
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	214	170.61	_K(su)MGLVDQLVDPLGPGIK_	1.26	Yes	Yes
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	406	99.941	_GQQQVFK(su)GLNDK_	1.34	Yes	Yes
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	531	179.56	_DTTASAVAVGLK(su)QGK_	1.04	Yes	Yes
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	728	119.65	_FVDLYGAQK(su)VVDR_	1.17	Yes	Yes
+Q64565	Alanine--glyoxylate aminotransferase 2, mitochondrial	249	125.97	_K(su)CSCAPDGCQAK_	0.59	Yes	Yes
+Q64581	Cytochrome P450 3A18	66	68.224	_FDDDCYK(su)K_	1.62	Yes	Yes
+Q64591	2,4-dienoyl-CoA reductase, mitochondrial	49	139.58	_FFPPILK(su)PMLPPNAFQGK_	1.62	Yes	Yes
+Q64591	2,4-dienoyl-CoA reductase, mitochondrial	244	131.69	_FNIIQPGPIK(su)TK_	1.01	Yes	Yes
+Q64591	2,4-dienoyl-CoA reductase, mitochondrial	260	90.827	_FEK(su)DMIER_	1.09	Yes	Yes
+Q64644	Choline dehydrogenase (Fragment)	331	90.348	_GK(su)ELQPGSHVQSDK_	0.84	Yes	Yes
+Q64644	Choline dehydrogenase (Fragment)	433	96.467	_GCPALGDENVPVYK(su)PQTLDTQR_	1.57	Yes	Yes
+Q64648	Cytochrome P450 2C12, female-specific	249	128.74	_IK(su)EHEESLDVSNPR_	1.19	Yes	Yes
+Q66HD0	Endoplasmin	547	118.24	_K(su)EAESSPFVER_	2.14	Yes	Yes
+Q66HD0	Endoplasmin	683	61.765	_K(su)TFEINPR_	1.6	Yes	Yes
+Q66HT1	Fructose-bisphosphate aldolase	14	111.86	_K(su)ELSEIAQR_	0.91	Yes	Yes
+Q66HT1	Fructose-bisphosphate aldolase	48	115.57	_IK(su)VENTEENRR_	1.41	Yes	Yes
+Q66HT1	Fructose-bisphosphate aldolase	140	76.228	_K(su)DGVDFGK_	1.66	Yes	Yes
+Q66HT1	Fructose-bisphosphate aldolase	243	130.92	_K(su)YTPEQVAMATVTALHR_	0.97	Yes	Yes
+Q66HT1	Fructose-bisphosphate aldolase	322	97.163	_K(su)ATQEAFMK_	not quantified	Yes	Yes
+Q68FQ0	T-complex protein 1 subunit epsilon	232	126.25	_GVIVDK(su)DFSHPQMPK_	1.27	Yes	Yes
+Q68FR6	Elongation factor 1-gamma	401	95.205	_K(su)LDPGSEETQTLVR_	1.67	Yes	Yes
+Q68FS4	Cytosol aminopeptidase	45	101.54	_DK(su)DDDVPQFTSAGENFNK_	1.08	Yes	Yes
+Q68FT3	Pyridine nucleotide-disulfide oxidoreductase domain-containing protein 2	154	70.552	_K(su)DAQAFPR_	0.86	Yes	Yes
+Q68FU3	Electron transfer flavoprotein subunit beta	116	117.79	_EK(su)VDLLFLGK_	not quantified	Yes	Yes
+Q68G19	Protein Ugt2b35	232	90.05	_K(su)WDPFYSK_	1.1	Yes	Yes
+Q68G41	Dodecenoyl-Coenzyme A delta isomerase (3,2 trans-enoyl-Coenzyme A isomerase)	229	78.69	_SVMAK(su)WFTIPDHSR_	not quantified	Yes	Yes
+Q68G41	Dodecenoyl-Coenzyme A delta isomerase (3,2 trans-enoyl-Coenzyme A isomerase)	255	99.539	_ATADNLIK(su)QR_	1.12	Yes	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	118	92.707	_TK(su)LPWDAVGR_	1.49	Yes	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	310	131.5	_MVQK(su)SLAR_	1.01	Yes	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	350	154.72	_LEETYTNK(su)DVDK_	1.27	Yes	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	354	109.66	_DVDK(su)ALLK_	0.82	Yes	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	358	194.98	_ALLK(su)ASLDMFNK_	0.74	Yes	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	366	112.13	_ASLDMFNK(su)K_	1.13	Yes	Yes
+Q6AXS5	Plasminogen activator inhibitor 1 RNA-binding protein	309	60.161	_K(su)PNEGADGQWK_	1.8	Yes	Yes
+Q6AY58	B-cell receptor-associated protein 31	149	127.17	_K(su)YMEENDQLK_	2	Yes	Yes
+Q6AY58	B-cell receptor-associated protein 31	191	110.08	_LK(su)DELASTK_	not quantified	Yes	Yes
+Q6AYQ8	Acylpyruvase FAHD1, mitochondrial	110	127.76	_DVQDECK(su)K_	0.54	Yes	Yes
+Q6AYW2	Phenylalanine hydroxylase	74	109.79	_LNK(su)DEYEFFTYLDK_	1.52	Yes	Yes
+Q6IMX8	Acyl-CoA thioesterase 2	83	99.688	_DEK(su)GALFR_	2.12	Yes	Yes
+Q6IMX8	Acyl-CoA thioesterase 2	344	105.9	_DGLLDVVEALQSPLVDK(su)K_	not quantified	Yes	Yes
+Q6IRK8	Spna2 protein	274	90.348	_EK(su)EQLMASDDFGR_	1.39	Yes	Yes
+Q6IRK8	Spna2 protein	803	86.288	_EK(su)EPIAASTNR_	1.93	Yes	Yes
+Q6LDP3	Rat glutathione S-transferase	67	93.614	_K(su)ITQSNAIMR_	1.23	Yes	Yes
+Q6LDP3	Rat glutathione S-transferase	81	131.06	_K(su)HHLCGETEEER_	1.61	Yes	Yes
+Q6LDS4	Superoxide dismutase [Cu-Zn]	127	127.5	_QDDLGK(su)GGNEESTK_	0.37	Yes	Yes
+Q6P3V9	60S ribosomal protein L4	259	66.538	_K(su)LDELYGTWR_	not quantified	Yes	Yes
+Q6P685	Eukaryotic translation initiation factor 2, subunit 2 (Beta)	190	118.51	_EK(su)NPDMVAGEK_	1.92	Yes	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	122	144.57	_LNLEK(su)MMEQK_	0.55	Yes	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	132	134.14	_SAVK(su)ALTGGIAHLFK_	0.54	Yes	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	267	150.4	_ILQK(su)QGFK_	0.62	Yes	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	410	85.909	_SEEQLK(su)EEGVEFK_	not quantified	Yes	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	430	124.62	_AK(su)TNADTDGMVK_	0.48	Yes	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	505	67.102	_EANLAASFGK(su)PINF_	not quantified	Yes	Yes
+Q6P743	Adenosylhomocysteinase	43	91.961	_EMYSASK(su)PLK_	1.19	Yes	Yes
+Q6P743	Adenosylhomocysteinase	322	83.862	_VNIK(su)PQVDR_	1.59	Yes	Yes
+Q6P743	Adenosylhomocysteinase	389	142.91	_K(su)LDEAVAEAHLGK_	1.71	Yes	Yes
+Q6P790	60S ribosomal protein L6 (Fragment)	248	129.82	_EK(su)YEITEQR_	1.51	Yes	Yes
+Q6P9V7	Proteasome (Prosome, macropain) activator subunit 1	91	140.95	_K(su)GDEDDKGPPCGPVNCNEK_	2.33	Yes	Yes
+Q6PDV7	60S ribosomal protein L10	15	66.994	_NK(su)PYPK_	1.05	Yes	Yes
+Q6PDV7	60S ribosomal protein L10	121	67.997	_GAFGK(su)PQGTVAR_	1.79	Yes	Yes
+Q6UPE1	Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial	496	105.25	_GSDSEQLK(su)PAK_	1.2	Yes	Yes
+Q7TP52	Carboxymethylenebutenolidase homolog	227	159.69	_EDCSPADK(su)PYIEEAR_	1.95	Yes	Yes
+Q7TT85	UDP glucuronosyltransferase	57	78.78	_GHEVTVLK(su)PSAYFFLDPK_	0.58	Yes	Yes
+Q7TT85	UDP glucuronosyltransferase	287	66.799	_PAK(su)PLPK_	not quantified	Yes	Yes
+Q8CIY7	11beta-hydroxysteroid dehydrogenase type 1 (Fragment)	228	121.9	_K(su)DEVYYDK_	1.99	Yes	Yes
+Q8CJG5	Gene	155	109	_AK(su)PAEAPATAHK_	1	Yes	Yes
+Q8CJG5	Gene	268	85.67	_HK(su)DAFLK_	0.54	Yes	Yes
+Q8K4C0	Dimethylaniline monooxygenase [N-oxide-forming] 5	178	140.82	_EYK(su)NPVEFTGK_	1.4	Yes	Yes
+Q8K4C0	Dimethylaniline monooxygenase [N-oxide-forming] 5	273	100.88	_FDHEMFGLK(su)PK_	1.19	Yes	Yes
+Q8K5B3	Multiple coagulation factor deficiency protein 2 homolog	129	101.05	_DDDK(su)NNDGYIDYAEFAK_	1.41	Yes	Yes
+Q920L2	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	616	84.297	_K(su)HTLSYVDTK_	1.5	Yes	Yes
+Q924S5	Lon protease homolog, mitochondrial	404	85.522	_DDK(su)DAIEEK_	2.19	Yes	Yes
+Q99068	Alpha-2-macroglobulin receptor-associated protein	42	94.122	_EK(su)NEPEMAAK_	1.25	Yes	Yes
+Q9EQ76	Dimethylaniline monooxygenase [N-oxide-forming] 3	280	133.16	_K(su)EPVFNDELPAR_	1.37	Yes	Yes
+Q9ER34	Aconitate hydratase, mitochondrial	50	137.62	_YDLLEK(su)NINIVR_	0.73	Yes	Yes
+Q9ER34	Aconitate hydratase, mitochondrial	573	95.57	_LQLLEPFDK(su)WDGK_	not quantified	Yes	Yes
+Q9EST6	Acidic leucine-rich nuclear phosphoprotein 32 family member B	110	96.113	_DISTLEPLK(su)R_	not quantified	Yes	Yes
+Q9JI85	Nucleobindin-2	309	75.911	_EHVMNEIDNNK(su)DR_	2.3	Yes	Yes
+Q9JLH7	CDK5 regulatory subunit-associated protein 3	146	127.57	_K(su)EEEGQAGAAEMR_	2.14	Yes	Yes
+Q9JLJ3	4-trimethylaminobutyraldehyde dehydrogenase	249	116.24	_GIK(su)PITLELGGK_	1.4	Yes	Yes
+Q9JLJ3	4-trimethylaminobutyraldehyde dehydrogenase	306	107.99	_EIADAFTK(su)EVVR_	0.73	Yes	Yes
+Q9R0T3	DnaJ homolog subfamily C member 3	218	116.51	_LK(su)NDNTEAFYK_	2.13	Yes	Yes
+Q9WVK3	Peroxisomal trans-2-enoyl-CoA reductase	83	128.85	_K(su)EEEVNNLVK_	0.6	Yes	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	68	82.417	_K(su)GIEESLK_	0.79	Yes	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	127	98.044	_LK(su)NELFQR_	1.31	Yes	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	185	153.09	_LVEVIK(su)TPMTSQK_	0.64	Yes	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	192	142.39	_TPMTSQK(su)TFESLVDFCK_	0.49	Yes	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	202	144.29	_TFESLVDFCK(su)TLGK_	0.48	Yes	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	241	132.84	_GDASK(su)EDIDTAMK_	0.69	Yes	Yes
+Q9Z311	Trans-2-enoyl-CoA reductase, mitochondrial	317	67.704	_K(su)NHSPDEFK_	not quantified	Yes	Yes
+R4GNK3	Thioredoxin (Fragment)	95	103.91	_EK(su)LEATITEFA_	1.03	Yes	Yes
+R9PXR7	Prostaglandin E synthase 3 (Fragment)	78	93.839	_K(su)GESGQSWPR_	1.55	Yes	Yes
+R9PXU6	Vinculin	1061	60.799	_K(su)TPWYQ_	not quantified	Yes	Yes
+R9PY08	Protein disulfide-isomerase A5	364	172.57	_DK(su)NQDLCQQESVK_	1.3	Yes	Yes
+T1SRT4	Radixin isoform	72	86.898	_K(su)ENPLQFK_	1.45	Yes	Yes
+T1SRT4	Radixin isoform	258	90.15	_FVIK(su)PIDK_	1.45	Yes	Yes
+T1SRT4	Radixin isoform	263	96.23	_K(su)APDFVFYAPR_	1.31	Yes	Yes
+D4AA52	Protein Cpamd8	726	53.255	_KDPPPK(su)DPVIETIR_	1.37	Yes	Yes
+F1LM82	Heterogeneous nuclear ribonucleoproteins A2/B1	5	60.478	_EK(su)EQFR_	1	Yes	Yes
+F1LQK1	Uncharacterized protein	166	47.037	_QEAETGK(su)PVTMK_	1.19	Yes	Yes
+F1M6G3	Protein Gm8444 (Fragment)	74	59.908	_YK(su)PLDLRPK_	not quantified	Yes	Yes
+F1M7G5	Protein Sult2a2	41	115.91	_K(su)PDSLGTYVEWFLK_	0.9	Yes	Yes
+M0R9D0	Protein LOC100909983	108	41.109	_DLSTIEPLK(su)K_	not quantified	Yes	Yes
+M0RD35	Uncharacterized protein	86	71.501	_ALK(su)EPPR_	1.14	Yes	Yes
+O35952	Hydroxyacylglutathione hydrolase, mitochondrial	117	66.664	_LVK(su)LEPGLK_	0.78	Yes	Yes
+O55215	Ribosomal protein S2	133	64.82	_IGK(su)PHTVPCK_	not quantified	Yes	Yes
+P50137	Transketolase	260	54.259	_EAWHGK(su)PLPK_	not quantified	Yes	Yes
+P53987	Monocarboxylate transporter 1	455	55.688	_DGK(su)EDETSTDVDEKPK_	1.9	Yes	Yes
+P56571	ES1 protein homolog, mitochondrial	259	73.887	_K(su)VLELTGK_	not quantified	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	91	89.046	_YK(su)NIGAK_	not quantified	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	196	86.67	_K(su)GVITVK_	1.2	Yes	Yes
+P63039	60 kDa heat shock protein, mitochondrial	359	53.751	_DDAMLLK(su)GK_	0.87	Yes	Yes
+Q03336	Regucalcin	233	72.23	_LDPETGK(su)R_	1.45	Yes	Yes
+Q09073	ADP/ATP translocase 2	166	64.73	_IYK(su)SDGIK_	not quantified	Yes	Yes
+Q4KLL4	Transmembrane 9 superfamily member 4	635	58.917	_K(su)IYAAVK_	not quantified	Yes	Yes
+Q562C3	Glycine C-acetyltransferase (2-amino-3-ketobutyrate-coenzyme A ligase)	167	56.51	_LCK(su)AHK_	not quantified	Yes	Yes
+P29419	ATP synthase subunit e, mitochondrial	34	52.786	_YSYLK(su)PR_	not quantified	No	Yes
+P45592	Cofilin-1	22	44.847	_K(su)SSTPEEVK_	1.14	No	Yes
+P46462	Transitional endoplasmic reticulum ATPase	148	44.318	_K(su)GDIFLVR_	not quantified	No	Yes
+Q5BJX2	Pdhx protein (Fragment)	200	51.276	_DLVK(su)DDIK_	not quantified	No	Yes
+Q5BJZ3	Nicotinamide nucleotide transhydrogenase	1071	50.353	_K(su)TCDALQAK_	not quantified	No	Yes
+Q5BK88	Alpha-methylacyl-CoA racemase	37	53.317	_SLALDLK(su)R_	not quantified	No	Yes
+Q5EBA4	Nipsnap1 protein (Fragment)	145	52.735	_TNK(su)EYLEFR_	0.89	No	Yes
+Q63342	Dimethylglycine dehydrogenase, mitochondrial	201	75.109	_K(su)YGVLLK_	not quantified	No	Yes
+Q64644	Choline dehydrogenase (Fragment)	132	46.063	_DGQSHK(su)AYVSR_	0.62	No	Yes
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	243	105.17	_GTHM(ox)ENAYDFYK(su)PNLASEYPLVDGK_	1.82	No	Yes
+Q920L2	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	590	69.176	_EDYK(su)VR_	0.61	No	Yes
+Q9WVK3	Peroxisomal trans-2-enoyl-CoA reductase	97	72.607	_STLAK(su)YGK_	not quantified	No	Yes
+Q9WVK7	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	305	60.102	_K(su)TGEGFYK_	1.31	No	Yes
+B1H250	Protein RGD1564894	267	85.522	_GYPVYNHTEK(su)ANK_	0.85	No	Yes
+B2RYW9	Fumarylacetoacetate hydrolase domain-containing protein 2	294	86.573	_K(su)GDEVQCEIEELGVIINK_	0.76	No	Yes
+B5LSW7	Cysteine sulfinate decarboxylase	403	52.247	_K(su)ESPDYSQR_	not quantified	No	Yes
+B6DYQ3	Glutathione S-transferase mu 3	81	73.927	_K(su)HNLCGETEEEK_	1.54	No	Yes
+D3Z8J1	Beta-ureidopropionase	132	158	_EK(su)LPWTEFAESAEDGLTTR_	not quantified	No	Yes
+D3Z9D5	Protein Zbtb8os	23	57.047	_NK(su)YPPVNR_	1.29	No	Yes
+D3ZS25	Protein RGD1561694	141	72.2	_DK(su)QPYEQK_	not quantified	No	Yes
+D3ZUY8	Adaptor protein complex AP-2, alpha 1 subunit (Predicted)	620	64.52	_K(su)GPGAASALDDSR_	1.4	No	Yes
+D4A994	Protein Emc1	413	57.785	_K(su)DDSVGYR_	0.98	No	Yes
+D4ABR6	Annexin (Fragment)	598	107.06	_NK(su)PLFFADK_	not quantified	No	Yes
+D4AC23	Protein Cct7	320	63.076	_VPEEDLK(su)R_	not quantified	No	Yes
+D4AD15	Protein LOC100911431	848	66.809	_EFEK(su)DKDDDEVFEK_	1.75	No	Yes
+F1LTA7	Protein LOC100909504 (Fragment)	194	125.97	_EGLELPEDEEEK(su)K_	1.8	No	Yes
+F1LW74	Protein Iqgap2	1177	46.162	_K(su)YFQEACDVHEPEEK_	not quantified	No	Yes
+F1LYI5	Protein RGD1564138 (Fragment)	76	72.2	_ALVK(su)PQAVKPK_	not quantified	No	Yes
+F1M572	Kynurenine--oxoglutarate transaminase 3	116	117.93	_ALSCLYGK(su)IYQK_	not quantified	No	Yes
+F1M609	Acyl-coenzyme A oxidase	259	61.477	_YAQVK(su)PDGTYVKPLSNK_	2.11	No	Yes
+F8WFI0	Taste receptor type 1 member 2	364	59.663	_LYVPQSLWPQIK(su)GR_	not quantified	No	Yes
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	975	126.77	_K(su)LEEDQIIMEDQNCK_	1.23	No	Yes
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	1845	69.431	_LK(su)DVLLQVEDER_	not quantified	No	Yes
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	1937	62.861	_K(su)GTGDCSDEEVDGK_	2.07	No	Yes
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	209	115.39	_AANEAGYFNEEMAPIEVK(su)TK_	not quantified	No	Yes
+M0R6T0	Uncharacterized protein (Fragment)	106	52.579	_AGAHLK(su)GGAK_	not quantified	No	Yes
+M0RBV3	Protein Rrbp1	380	66.267	_K(su)GEGLQNQGK_	0.83	No	Yes
+M0RD74	Uncharacterized protein	70	61.161	_K(su)PMTIFQER_	0.96	No	Yes
+M0RDS0	Protein LOC100362827	36	60.398	_PAPPK(su)PEPK_	not quantified	No	Yes
+O09171	Betaine--homocysteine S-methyltransferase 1	369	46.892	_PYNPSMSK(su)PDAWGVTK_	1.14	No	Yes
+O35791	RhoA (Fragment)	125	80.905	_MK(su)QEPVKPEEGR_	1.22	No	Yes
+O88767	Protein DJ-1	188	52.636	_APLVLK(su)D_	0.99	No	Yes
+P00388	NADPH--cytochrome P450 reductase	273	79.875	_SYENQK(su)PPFDAK_	1.34	No	Yes
+P02770	Serum albumin	223	114.4	_MK(su)CSSMQR_	1.07	No	Yes
+P04636	Malate dehydrogenase, mitochondrial	324	98.592	_MIAEAIPELK(su)ASIK_	0.64	No	Yes
+P04785	Protein disulfide-isomerase	73	77.744	_LK(su)AEGSEIR_	not quantified	No	Yes
+P06761	78 kDa glucose-regulated protein	523	52.576	_NK(su)ITITNDQNR_	1.86	No	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	412	48.288	_GTTITSVLPK(su)PALVASR_	not quantified	No	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	532	109.37	_EYGVK(su)VLGTSVESIMATEDR_	not quantified	No	Yes
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	831	44.252	_LPMNK(su)EWPANLDLR_	not quantified	No	Yes
+P07896	Peroxisomal bifunctional enzyme	173	105.9	_LGILDAVVK(su)SDPVEEAIK_	not quantified	No	Yes
+P07896	Peroxisomal bifunctional enzyme	583	100.04	_GWYQYDK(su)PLGR_	2.22	No	Yes
+P10111	Peptidyl-prolyl cis-trans isomerase A	155	54.259	_K(su)ITISDCGQL_	not quantified	No	Yes
+P10888	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial	60	81.92	_LLSASQK(su)ALK_	not quantified	No	Yes
+P13086	Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial	54	87.184	_NIYIDK(su)NTK_	not quantified	No	Yes
+P13635	Ceruloplasmin	556	64.906	_K(su)GSLLADGR_	1.58	No	Yes
+P15650	Long-chain specific acyl-CoA dehydrogenase, mitochondrial	92	85.533	_ELWEK(su)AGK_	not quantified	No	Yes
+P19511	ATP synthase F(0) complex subunit B1, mitochondrial	244	108.7	_CIGDLK(su)MLAK_	not quantified	No	Yes
+P21531	60S ribosomal protein L3	155	66.073	_K(su)YCQVIR_	1.26	No	Yes
+P21571	ATP synthase-coupling factor 6, mitochondrial	105	72.638	_FEVLDK(su)PQS_	0.94	No	Yes
+P23514	Coatomer subunit beta	535	82.417	_K(su)EEDRPPLR_	1.22	No	Yes
+P24473	Glutathione S-transferase kappa 1	36	76.228	_YQHLWNIK(su)LK_	0.86	No	Yes
+P24473	Glutathione S-transferase kappa 1	38	58.754	_LK(su)LRPALLAGIMK_	not quantified	No	Yes
+P24473	Glutathione S-transferase kappa 1	94	74.267	_K(su)GTVNAMR_	0.91	No	Yes
+P29266	3-hydroxyisobutyrate dehydrogenase, mitochondrial	320	128.21	_K(su)DFSSVFQYLR_	0.85	No	Yes
+P29314	40S ribosomal protein S9	11	55.898	_K(su)TYVTPR_	not quantified	No	Yes
+P29418	ATP synthase subunit epsilon, mitochondrial	28	101.38	_DALK(su)TEFK_	0.73	No	Yes
+P31399	ATP synthase subunit d, mitochondrial	71	140.89	_PGLVDDFK(su)NK_	0.6	No	Yes
+P35434	ATP synthase subunit delta, mitochondrial	165	65.234	_IEANEALVK(su)ALE_	not quantified	No	Yes
+P35565	Calnexin	526	103.9	_TDAPQPDVK(su)DEEGKEEEK_	2.71	No	Yes
+P40307	Proteasome subunit beta type-2	185	105.79	_VIDK(su)DGIHNLENITFTK_	not quantified	No	Yes
+P42676	Neurolysin, mitochondrial	327	65.627	_LK(su)PLGEAER_	not quantified	No	Yes
+P46413	Glutathione synthetase	96	56.432	_K(su)DEYTAR_	not quantified	No	Yes
+P46720	Solute carrier organic anion transporter family member 1A1	273	113.76	_K(su)GQQENVAVTK_	1.19	No	Yes
+P50399	Rab GDP dissociation inhibitor beta	418	154.49	_AYDATTHFETTCDDIK(su)DIYK_	1.49	No	Yes
+P50475	Alanine--tRNA ligase, cytoplasmic	366	66.692	_K(su)DPDMVK_	not quantified	No	Yes
+P53987	Monocarboxylate transporter 1	466	78.95	_DGKEDETSTDVDEK(su)PK_	2.02	No	Yes
+P57113	Maleylacetoacetate isomerase	95	53.751	_LLPQDPQK(su)R_	1.12	No	Yes
+P62243	40S ribosomal protein S8	26	83.753	_K(su)YELGR_	2.21	No	Yes
+P62630	Elongation factor 1-alpha 1	219	130.32	_K(su)DGSASGTTLLEALDCILPPTRPTDKPLR_	1.24	No	Yes
+P62718	60S ribosomal protein L18a	11	78.77	_EYK(su)VVGR_	not quantified	No	Yes
+P63036	DnaJ homolog subfamily A member 1	37	89.43	_YHPDK(su)NPNEGEK_	not quantified	No	Yes
+P67779	Prohibitin	240	108.18	_K(su)LEAAEDIAYQLSR_	not quantified	No	Yes
+P83732	60S ribosomal protein L24	61	78.342	_K(su)GQSEEIQK_	0.88	No	Yes
+P97852	Peroxisomal multifunctional enzyme type 2	564	110.12	_FAK(su)PVYPGQTLQTEMWK_	not quantified	No	Yes
+Q01986	Dual specificity mitogen-activated protein kinase kinase 1	64	117.93	_VGELK(su)DDDFEK_	2.09	No	Yes
+Q02253	Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial	117	85.29	_ENLK(su)EIAR_	0.42	No	Yes
+Q04400	Adenylate cyclase type 5	101	56.258	_SK(su)SAWQER_	1.3	No	Yes
+Q562C4	Methyltransferase-like protein 7B	210	73.499	_ETWK(su)DIEK_	1.29	No	Yes
+Q5EBA4	Nipsnap1 protein (Fragment)	278	83.862	_IMIPLK(su)ISPLQ_	not quantified	No	Yes
+Q5M949	Nipsnap homolog 3A (C. elegans)	166	102.87	_PGGPALWGDAFK(su)R_	0.77	No	Yes
+Q5RKG9	Eukaryotic translation initiation factor 4B	194	61.344	_DSDK(su)TDTDWR_	1.47	No	Yes
+Q62744	Alpha actinin	47	72.932	_K(su)AGTQIENIDEDFR_	1.62	No	Yes
+Q63276	Bile acid-CoA:amino acid N-acyltransferase	40	84.403	_DDK(su)GNLFNSQAFYR_	not quantified	No	Yes
+Q63342	Dimethylglycine dehydrogenase, mitochondrial	754	77.923	_QALK(su)QIK_	not quantified	No	Yes
+Q63413	Spliceosome RNA helicase Ddx39b	53	89.805	_DFLLK(su)PELLR_	not quantified	No	Yes
+Q63413	Spliceosome RNA helicase Ddx39b	156	82.287	_K(su)DEEVLK_	1.29	No	Yes
+Q63798	Proteasome activator complex subunit 2	234	51.193	_GEEK(su)PSMY_	not quantified	No	Yes
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	415	58.592	_K(su)ALTSFER_	not quantified	No	Yes
+Q68FR6	Elongation factor 1-gamma	277	50.95	_AK(su)DPFAHLPK_	not quantified	No	Yes
+Q68G40	Cytochrome P450 2C23	474	45.916	_DLDIK(su)PITTGIINLPPPYK_	1.25	No	Yes
+Q6AYD5	G1 to S phase transition 1	324	75.102	_K(su)GEFETGFEK_	not quantified	No	Yes
+Q6GMN8	Actn1 protein	563	51.998	_ATLPDADK(su)ER_	not quantified	No	Yes
+Q6IMY8	Heterogeneous nuclear ribonucleoprotein U	17	73.435	_VSELK(su)EELK_	not quantified	No	Yes
+Q6IRK8	Spna2 protein	602	52.112	_TATDEAYK(su)DPSNLQGK_	not quantified	No	Yes
+Q6IRK8	Spna2 protein	1254	42.599	_K(su)HEGFER_	not quantified	No	Yes
+Q6LDP3	Rat glutathione S-transferase	122	106.36	_QK(su)PEFLK_	1.48	No	Yes
+Q6MG74	B-factor, properdin	754	59.067	_LK(su)DEDLGFL_	not quantified	No	Yes
+Q6NYB7	Ras-related protein Rab-1A	132	105.2	_K(su)VVDYTTAK_	not quantified	No	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	66	54.09	_AAQLGFK(su)TVCIEK_	not quantified	No	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	159	99.11	_ITGK(su)NQVTATTADGSTQVIGTK_	0.77	No	Yes
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	420	74.698	_VGK(su)FPFAANSR_	0.65	No	Yes
+Q6PEC4	S-phase kinase-associated protein 1	155	113.61	_K(su)ENQWCEEK_	1.62	No	Yes
+Q6RUV5	Ras-related C3 botulinum toxin substrate 1	123	90.05	_DDK(su)DTIEK_	1.37	No	Yes
+Q7TP86	Ab1-331	120	54.157	_K(su)DVHMPK_	1.32	No	Yes
+Q80Z29	Nicotinamide phosphoribosyltransferase	331	50.275	_K(su)FPVSENSK_	1.51	No	Yes
+Q8CG45	Aflatoxin B1 aldehyde reductase member 2	253	86.803	_YEDKDGK(su)QPEGR_	1.16	No	Yes
+Q8CJG5	Gene	273	86.898	_HKDAFLK(su)K_	0.39	No	Yes
+Q920D2	Dihydrofolate reductase	81	79.885	_ELK(su)EPPQGAHFLAK_	not quantified	No	Yes
+Q9EQ76	Dimethylaniline monooxygenase [N-oxide-forming] 3	177	75.819	_DYK(su)EPGTWK_	1.12	No	Yes
+Q9EQS4	Cystathionase (Cystathionine gamma-lyase)	383	73.057	_LSVGLEDEK(su)DLLEDLGQALK_	not quantified	No	Yes
+Q9ES21	Phosphatidylinositide phosphatase SAC1	273	83.862	_YK(su)PDPQINK_	not quantified	No	Yes
+Q9QZA2	Programmed cell death 6-interacting protein	491	76.255	_TPSNDLYK(su)PLR_	not quantified	No	Yes
+Q9R0T3	DnaJ homolog subfamily C member 3	321	81.92	_DEK(su)PVEAIK_	2.05	No	Yes
+Q9WTT6	Guanine deaminase	61	62.338	_EWCFK(su)PCEIR_	not quantified	No	Yes
+Q9WUS0	Adenylate kinase 4, mitochondrial	175	63.29	_YK(su)DAAKPVIELYK_	not quantified	No	Yes
+Q9WUS0	Adenylate kinase 4, mitochondrial	179	102.52	_DAAK(su)PVIELYK_	1.38	No	Yes
+Q9WVJ6	Protein Tgm2	468	78.814	_LAEK(su)EETGVAMR_	not quantified	No	Yes
+Q9Z339	Glutathione S-transferase omega-1	59	58.172	_NK(su)PEWFFEK_	1.67	No	Yes
+B2RYS2	Cytochrome b-c1 complex subunit 7	88	83.087	_YEEDK(su)FYLEPYLK_	not quantified	Yes	No
+B5DFA3	Bucs1 protein	218	108.71	_MK(su)DPMVIFFTSGTTGYPK_	0.99	Yes	No
+C0JPT7	Filamin alpha	987	117.2	_VDVGK(su)DQEFTVK_	1.64	Yes	No
+D3ZJX6	Cytochrome P450 4A10	153	114.64	_MLTPAFHYDILK(su)PYVK_	not quantified	Yes	No
+D3ZUU8	Protein Sec14l4	51	73.573	_K(su)SEDMLR_	1.27	Yes	No
+D4A412	60S ribosomal protein L32	9	68.847	_AALRPLVK(su)PK_	not quantified	Yes	No
+D4A9T3	Protein Hmg1l1	82	76.165	_TYIPPK(su)GETK_	not quantified	Yes	No
+D4ABR6	Annexin (Fragment)	478	82.069	_AINEAYK(su)EDYHK_	1.74	Yes	No
+D4AEH9	Amylo-1, 6-glucosidase, 4-alpha-glucanotransferase (Glycogen debranching enzyme, glycogen storage disease type III) (Predicted), isoform CRA_a	79	52.49	_EDDSDK(su)YCK_	1.12	Yes	No
+F1LM82	Heterogeneous nuclear ribonucleoproteins A2/B1	92	59.68	_EESGK(su)PGAHVTVK_	1.3	Yes	No
+F1LQ55	Non-specific lipid-transfer protein	472	107.78	_K(su)ADCTITMADSDLLALMTGK_	not quantified	Yes	No
+F1LRJ9	Uncharacterized protein (Fragment)	447	74.876	_LNPNFLVDFGK(su)EPLGPALAHELR_	not quantified	Yes	No
+F1LU71	AU RNA binding protein/enoyl-coenzyme A hydratase (Predicted), isoform CRA_a	76	107.06	_AYGK(su)NSLSK_	0.49	Yes	No
+F1LU71	AU RNA binding protein/enoyl-coenzyme A hydratase (Predicted), isoform CRA_a	187	63.488	_MGLVETK(su)LAIIPGGGGTQR_	not quantified	Yes	No
+F1M609	Acyl-coenzyme A oxidase	215	110.6	_EIGTHK(su)PLPGITVGDIGPK_	not quantified	Yes	No
+F1M609	Acyl-coenzyme A oxidase	266	105.9	_YAQVKPDGTYVK(su)PLSNK_	2.08	Yes	No
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	910	80.738	_K(su)QELEEICHDLEAR_	not quantified	Yes	No
+G3V6P7	Myosin, heavy polypeptide 9, non-muscle	1081	69.314	_K(su)EEELQAALAR_	not quantified	Yes	No
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	25	151.89	_TPFGAYGGLLK(su)DFTATDLTEFAAR_	0.6	Yes	No
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	171	135.38	_LPMGMTAENLAAK(su)YNISR_	0.71	Yes	No
+G3V9U2	3-ketoacyl-CoA thiolase, mitochondrial	305	86.791	_VVGYFVSGCDPAIMGIGPVPAITGALK(su)K_	not quantified	Yes	No
+O35077	Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic	49	118.19	_K(su)LTEIINTQHENVK_	not quantified	Yes	No
+O35094	Mitochondrial import inner membrane translocase subunit TIM44	91	68.283	_K(su)LEESDALQEAR_	1.32	Yes	No
+P00507	Aspartate aminotransferase, mitochondrial	309	63.164	_VESQLK(su)ILIR_	not quantified	Yes	No
+P02770	Serum albumin	549	82.069	_K(su)QTALAELVK_	not quantified	Yes	No
+P04785	Protein disulfide-isomerase	354	130.29	_IK(su)PHLMSQELPEDWDKQPVK_	1.76	Yes	No
+P04904	Glutathione S-transferase alpha-3	138	103.91	_YFPAFEK(su)VLK_	not quantified	Yes	No
+P05197	Elongation factor 2	445	82.261	_EDLYLK(su)PIQR_	not quantified	Yes	No
+P05197	Elongation factor 2	857	90.412	_EGIPALDNFLDK(su)L_	1.13	Yes	No
+P05426	60S ribosomal protein L7	22	111.94	_K(su)VPAVPETLK_	1.76	Yes	No
+P06761	78 kDa glucose-regulated protein	326	60.657	_AK(su)FEELNMDLFR_	not quantified	Yes	No
+P07687	Epoxide hydrolase 1	105	75.589	_K(su)QVEILNQYPHFK_	not quantified	Yes	No
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	757	104.52	_NVVSGK(su)TSACFEPSLDYMVTK_	0.84	Yes	No
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	856	154.49	_IYAIAK(su)ALENNMSLDEIVK_	0.45	Yes	No
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	1100	131.56	_SIFSAVLDELK(su)VAQAPWK_	0.44	Yes	No
+P07895	Superoxide dismutase [Mn], mitochondrial	75	161.08	_YHEALAK(su)GDVTTQVALQPALK_	0.79	Yes	No
+P07896	Peroxisomal bifunctional enzyme	200	84.166	_IFNK(su)PVPSLPNMDSVFAEAIAK_	2.14	Yes	No
+P07896	Peroxisomal bifunctional enzyme	249	56.205	_HPYEVGIK(su)EEEK_	not quantified	Yes	No
+P09495	Tropomyosin alpha-4 chain	44	80.96	_EK(su)AEGDAAALNR_	1.66	Yes	No
+P09606	Glutamine synthetase	334	62.546	_K(su)GYFEDR_	0.74	Yes	No
+P10719	ATP synthase subunit beta, mitochondrial	198	69.03	_VVDLLAPYAK(su)GGK_	not quantified	Yes	No
+P11598	Protein disulfide-isomerase A3	417	80.688	_YK(su)ELGEK_	1.04	Yes	No
+P11884	Aldehyde dehydrogenase, mitochondrial	54	71.524	_K(su)TFPTVNPSTGEVICQVAEGNKEDVDK_	1.15	Yes	No
+P12346	Serotransferrin	278	112.62	_NGDGK(su)EDLIWEILK_	not quantified	Yes	No
+P15651	Short-chain specific acyl-CoA dehydrogenase, mitochondrial	262	103.03	_ENLLGEPGMGFK(su)IAMQTLDMGR_	0.68	Yes	No
+P16036	Phosphate carrier protein, mitochondrial	351	74.717	_K(su)LGLTE_	not quantified	Yes	No
+P17764	Acetyl-CoA acetyltransferase, mitochondrial	171	145.33	_GATPYGGVK(su)LEDLIVK_	0.43	Yes	No
+P17764	Acetyl-CoA acetyltransferase, mitochondrial	187	120.41	_DGLTDVYNK(su)IHMGNCAENTAK_	0.89	Yes	No
+P17764	Acetyl-CoA acetyltransferase, mitochondrial	227	86.539	_EAWDAGK(su)FANEITPITISVK_	0.79	Yes	No
+P22734	Catechol O-methyltransferase	205	114.43	_K(su)GTVLLADNVIVPGTPDFLAYVR_	1.09	Yes	No
+P24473	Glutathione S-transferase kappa 1	74	129.05	_EIPLLK(su)QLFQVPMSVPK_	0.43	Yes	No
+P27615	Lysosome membrane protein 2	391	49.188	_K(su)LDDFVETGNIR_	not quantified	Yes	No
+P27867	Sorbitol dehydrogenase	64	110.12	_K(su)PMVLGHEAAGTVTK_	not quantified	Yes	No
+P29410	Adenylate kinase 2, mitochondrial	181	73.499	_SDDNEK(su)ALK_	0.99	Yes	No
+P46462	Transitional endoplasmic reticulum ATPase	288	73.499	_K(su)AFEEAEK_	1.12	Yes	No
+P51869	Cytochrome P450 4F4	311	106.3	_DEDGK(su)ELSDEDIR_	1.49	Yes	No
+P52759	Ribonuclease UK114	67	110.44	_NLGEILK(su)AAGCDFTNVVK_	not quantified	Yes	No
+P56574	Isocitrate dehydrogenase [NADP], mitochondrial	180	74.147	_HAHGDQYK(su)ATDFVVDR_	1.16	Yes	No
+P62275	40S ribosomal protein S29	33	47.574	_K(su)YGLNMCR_	not quantified	Yes	No
+P62898	Cytochrome c, somatic	73	129.05	_GITWGEDTLMEYLENPK(su)K_	not quantified	Yes	No
+P63039	60 kDa heat shock protein, mitochondrial	156	122.64	_GVMLAVDAVIAELK(su)K_	0.62	Yes	No
+P67779	Prohibitin	128	135.72	_VLPSITTEILK(su)SVVAR_	not quantified	Yes	No
+P70580	Membrane-associated progesterone receptor component 1	187	121.48	_EGEEPTVYSDDEEPK(su)DEAAR_	4.12	Yes	No
+P80254	D-dopachrome decarboxylase	110	122.39	_FFPLEPWQIGK(su)K_	0.44	Yes	No
+P85834	Elongation factor Tu, mitochondrial	286	94.688	_K(su)GDECELLGHNK_	1.3	Yes	No
+P97852	Peroxisomal multifunctional enzyme type 2	284	98.337	_ICDFSNASK(su)PK_	not quantified	Yes	No
+Q08163	Adenylyl cyclase-associated protein 1	316	55.66	_K(su)EPALLELEGK_	not quantified	Yes	No
+Q4KLF8	Actin-related protein 2/3 complex subunit 5	13	98.592	_K(su)VDVDEYDENK_	1.7	Yes	No
+Q4KLP0	Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial	818	62.969	_HFYALLK(su)QR_	0.66	Yes	No
+Q4KM60	Ribosomal protein (Fragment)	80	100.11	_AVDIPHMDIEALK(su)K_	not quantified	Yes	No
+Q4QQW7	Cytochrome P450, family 2, subfamily c, polypeptide 7	192	123.95	_DK(su)EMLTFMEK_	not quantified	Yes	No
+Q4QRB8	Asl protein	97	98.592	_LK(su)ELIGEAAGK_	not quantified	Yes	No
+Q5EBA4	Nipsnap1 protein (Fragment)	65	71.03	_K(su)ETSNLYK_	1.21	Yes	No
+Q5EBA4	Nipsnap1 protein (Fragment)	192	60.595	_LK(su)PGTMIEWGNNWAR_	not quantified	Yes	No
+Q5M897	Otc protein	70	122.97	_QK(su)GEYLPLLQGK_	not quantified	Yes	No
+Q5M964	Fumarate hydratase 1	119	55.912	_IASAIMK(su)AADEVAEGK_	not quantified	Yes	No
+Q5M9H2	Acyl-Coenzyme A dehydrogenase, very long chain	278	71.268	_EK(su)ITAFVVER_	not quantified	Yes	No
+Q5VLR5	BWK4	212	58.32	_YSGDNLIYK(su)PPGR_	not quantified	Yes	No
+Q5XIE6	3-hydroxyisobutyryl-CoA hydrolase, mitochondrial	91	97.45	_GAGGK(su)AFCAGGDIK_	0.92	Yes	No
+Q5XIH7	Prohibitin-2	89	65.179	_K(su)ISSPTGSK_	0.77	Yes	No
+Q60587	Trifunctional enzyme subunit beta, mitochondrial	49	76.17	_TLAK(su)PNLK_	1.74	Yes	No
+Q63270	Cytoplasmic aconitate hydratase	572	178.71	_IDFEK(su)EPLGVNAQGQQVFLK_	not quantified	Yes	No
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	166	59.912	_K(su)TVLGVPEVLLGILPGAGGTQR_	1.13	Yes	No
+Q64428	Trifunctional enzyme subunit alpha, mitochondrial	735	120.71	_K(su)YESAYGTQFTPCQLLR_	not quantified	Yes	No
+Q64563	Alcohol dehydrogenase 4	342	87.676	_K(su)FDLDLLVTHALPFDK_	not quantified	Yes	No
+Q64640	Adenosine kinase	50	149.97	_YSLK(su)PNDQILAEDK_	1.55	Yes	No
+Q66HD0	Endoplasmin	340	162.76	_TVWDWELMNDIK(su)PIWQR_	1.31	Yes	No
+Q68FU3	Electron transfer flavoprotein subunit beta	176	79.639	_LK(su)LPAVVTADLR_	0.95	Yes	No
+Q68G44	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (Mitochondrial)	221	78.098	_PTGGAGAVAMLIGPK(su)APLVLEQGLR_	not quantified	Yes	No
+Q6AY58	B-cell receptor-associated protein 31	72	90.05	_K(su)YDDVTEK_	not quantified	Yes	No
+Q6AYK6	Calcyclin-binding protein	208	64.121	_IYEDGDDDMK(su)R_	not quantified	Yes	No
+Q6AYW2	Phenylalanine hydroxylase	150	126.29	_FANQILSYGAELDADHPGFK(su)DPVYR_	1.42	Yes	No
+Q6IMX8	Acyl-CoA thioesterase 2	141	55.789	_DVQK(su)PYVVELEVLDGHEPDGGQR_	not quantified	Yes	No
+Q6IN15	Acyl-CoA synthetase long-chain family member 5	506	87.258	_GYLK(su)DPEK_	1.46	Yes	No
+Q6IRK8	Spna2 protein	920	151.06	_EKEPIVGSTDYGK(su)DEDSAEALLK_	1.3	Yes	No
+Q6LDS4	Superoxide dismutase [Cu-Zn]	121	88.071	_TMVVHEK(su)QDDLGKGGNEESTK_	0.47	Yes	No
+Q6P136	Hyou1 protein	530	104.22	_K(su)YPDYESK_	2	Yes	No
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	277	77.894	_LNTK(su)VTGATK_	0.82	Yes	No
+Q6P6R2	Dihydrolipoyl dehydrogenase, mitochondrial	334	97.5	_RPFTQNLGLEELGIELDPK(su)GR_	not quantified	Yes	No
+Q7TS56	Carbonyl reductase family member 4	195	85.265	_K(su)NIPLGR_	0.77	Yes	No
+Q8CG45	Aflatoxin B1 aldehyde reductase member 2	250	89.189	_YEDK(su)DGKQPEGR_	1.18	Yes	No
+Q9ER34	Aconitate hydratase, mitochondrial	523	99.055	_FK(su)LEAPDADELPR_	1.23	Yes	No
+Q9ERF9	Actin-related protein 3 (Fragment)	65	80.507	_K(su)DYEEIGPSICR_	1.3	Yes	No
+Q9JLJ3	4-trimethylaminobutyraldehyde dehydrogenase	44	107.65	_EIATFK(su)CSGEK_	0.77	Yes	No
+Q9Z1A6	Vigilin	769	116.6	_IIFPAAEDK(su)DQDLITIIGK_	not quantified	Yes	No
+D3ZF13	Acyl carrier protein	92	84.479	_LYDK(su)IDPEK_	1.33	Yes	No
+D4A1K1	Protein Polr3g	145	49.06	_K(su)IEELER_	not quantified	Yes	No
+D4A9Z5	Phosphoglycerate kinase (Fragment)	303	68.657	_K(su)YAEAVAR_	not quantified	Yes	No
+P04904	Glutathione S-transferase alpha-3	205	43.185	_K(su)PLEDEK_	not quantified	Yes	No
+P07756	Carbamoyl-phosphate synthase [ammonia], mitochondrial	280	78.516	_K(su)ILESDR_	0.52	Yes	No
+P08461	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial	626	57.347	_YLEK(su)PVTMLL_	not quantified	Yes	No
+P09034	Argininosuccinate synthase	53	89.142	_ALK(su)LGAK_	not quantified	Yes	No
+P09118	Uricase	36	57.785	_DGK(su)YHSIK_	1.07	Yes	No
+P17178	Sterol 26-hydroxylase, mitochondrial	125	80.231	_QEGK(su)YPIR_	1.06	Yes	No
+P19511	ATP synthase F(0) complex subunit B1, mitochondrial	191	77.058	_AYK(su)EVK_	0.78	Yes	No
+P27867	Sorbitol dehydrogenase	87	49.358	_HLK(su)PGDR_	not quantified	Yes	No
+Q6LED0	Histone H3.1	65	91.14	_K(su)LPFQR_	not quantified	Yes	No
+Q6TXF9	LRRGT00040	4	54.157	_K(su)QVGEER_	not quantified	Yes	No
+Q711G3	Isoamyl acetate-hydrolyzing esterase 1 homolog	46	52.255	_K(su)CDVLNR_	not quantified	Yes	No
+M0RD35	Uncharacterized protein	41	88.495	_K(su)VGDDIAK_	not quantified	Yes	No
+P52847	Sulfotransferase family cytosolic 1B member 1	259	74.841	_K(su)GVVGDWK_	not quantified	Yes	No
+Q5BK28	Signal transducing adaptor family member 2	29	43.297	_K(su)GPCDQDYR_	1.28	Yes	No
+Q8CG45	Aflatoxin B1 aldehyde reductase member 2	123	68.626	_SLK(su)PDSVR_	1.14	Yes	No
